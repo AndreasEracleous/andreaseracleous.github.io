@@ -734,7 +734,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3db4c9', end
     right: 0;
     margin: 0 auto;
 }
-
+#afflink:hover,
+#afflink:focus {
+    background-color: #FFF8E1;
+}
 footer {
     font-size: 14px;
     color: #fff;
