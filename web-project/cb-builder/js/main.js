@@ -8,7 +8,8 @@ $(document).ready(function () {
     .on('update.countdown', function(event) {
       var $this = $(this);
       if (event.elapsed) {
-        window.location.replace("https://www.clickbank.com/university/watch/u1.html");
+        setCookie("time", '0', 30);
+        checkCookie();
       } else {
         $this = $(this).html(event.strftime(''
                     + '<span>%H</span> HOURS '
@@ -20,7 +21,8 @@ $(document).ready(function () {
     .on('update.countdown', function(event) {
      var $this = $(this);
       if (event.elapsed) {
-        window.location.replace("https://www.clickbank.com/university/watch/u1.html");
+        setCookie("time", '0', 30);
+        checkCookie();
       } else {
         $this = $(this).html(event.strftime(''
                     + '<span>%H</span> HOURS '
@@ -33,7 +35,8 @@ $(document).ready(function () {
     .on('update.countdown', function(event) {
      var $this = $(this);
       if (event.elapsed) {
-        window.location.replace("https://www.clickbank.com/university/watch/u1.html");
+        setCookie("time", '0', 30);
+        checkCookie();
       } else {
         $this = $(this).html(event.strftime(''
                     + '<span>%H</span> <span class="hr">HOURS</span> '
@@ -68,38 +71,3 @@ $(document).ready(function () {
     scrollToTop();
     windowscroll();
 });
-
-    function setCookie(ctime) {
-        document.cookie = "time=" + ctime;
-    }
-    
-    function getCookie(ctime) {
-        var time = ctime + "=";
-        var decodedCookie = decodeURIComponent(document.cookie);
-        var ca = decodedCookie.split(';');
-        for(var i = 0; i <ca.length; i++) {
-            var c = ca[i];
-            while (c.charAt(0) == ' ') {
-                c = c.substring(1);
-            }
-            if (c.indexOf(time) == 0) {
-                return c.substring(time.length, c.length);
-            }
-        }
-        return "";
-    }
-
-    function checkCookie() {
-        var time=getCookie("time");
-        if (time != "") {
-           //setTimeout(showIt, 0); // 1000 = 1 sec
-           window.location.replace("https://www.clickbank.com/university/watch/u1.html");
-        } else {
-           //setTimeout(showIt, 430000); // 1000 = 1 sec
-           setCookie("time", time, 30);
-        }
-    }
-    
-    checkCookie();
-    setCookie("1");
-
