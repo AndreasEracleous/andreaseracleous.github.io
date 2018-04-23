@@ -7,6 +7,7 @@ $(document).ready(function () {
     $('#display-countdown1').countdown(seconds, {elapse: true})
     .on('update.countdown', function(event) {
       var $this = $(this);
+      //console.log(event);
       if (event.elapsed) {
         setCookie("time", '0', 30);
         checkCookie();
