@@ -5,6 +5,8 @@
   "description": "Front end web developer CSS Architecture and Performance Engineering",
   "start_url": "/",
   "display": "standalone",
+  "background_color": "#d7d6d6",
+  "theme_color": "#1976D2",
   "icons": [{
     "src": "/img/icons/512.png",
     "sizes": "512x512",
