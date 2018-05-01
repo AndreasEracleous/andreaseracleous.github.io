@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://andreaseracleous.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://andreaseracleous.com/" rel="alternate" type="text/html" /><updated>2018-03-26T14:06:28+03:00</updated><id>https://andreaseracleous.com/</id><title type="html">Andreas Eracleous</title><subtitle>Andreas Eracleous is a freelance Front-end Web Developer who is expert in PSD to responsive Bootstrap HTML, CSS, JavaScript and optimize website load speed.</subtitle><entry><title type="html">Best Way To Build A Website In Less Than 17 Minutes</title><link href="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/" rel="alternate" type="text/html" title="Best Way To Build A Website In Less Than 17 Minutes" /><published>2017-05-17T00:00:00+03:00</published><updated>2017-05-17T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes</id><content type="html" xml:base="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/">&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/make-a-website.png&quot; alt=&quot;Build a website&quot; class=&quot;img-fluid mx-auto d-block&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://andreaseracleous.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://andreaseracleous.com/" rel="alternate" type="text/html" /><updated>2018-05-01T23:54:12+03:00</updated><id>https://andreaseracleous.com/</id><title type="html">Andreas Eracleous</title><subtitle>Andreas Eracleous is a freelance Front-end Web Developer who is expert in PSD to responsive Bootstrap HTML, CSS, JavaScript and optimize website load speed.</subtitle><entry><title type="html">Best Way To Build A Website In Less Than 17 Minutes</title><link href="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/" rel="alternate" type="text/html" title="Best Way To Build A Website In Less Than 17 Minutes" /><published>2017-05-17T00:00:00+03:00</published><updated>2017-05-17T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes</id><content type="html" xml:base="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/">&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/make-a-website.png&quot; alt=&quot;Build a website&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 
 &lt;p class=&quot;clearfix&quot;&gt;&lt;strong&gt;Hello there! I wrote this easy and quick guide for you, so that you can do it yourself website, without having any programming languages and coding knowledge or having to be an expert!&lt;/strong&gt;&lt;/p&gt;
 
@@ -36,7 +36,8 @@
 &lt;/ul&gt;
 &lt;p&gt;Without these you can’t have a website! So let see what these three things are and why you need them.&lt;/p&gt;
 &lt;h3&gt;STEP #1: &lt;span class=&quot;text-underline&quot;&gt;Choose Your Website Design&lt;/span&gt;&lt;/h3&gt;
-&lt;img class=&quot;aligncenter size-full wp-image-3405&quot; src=&quot;https://andreaseracleous.com/wp-content/uploads/2017/05/choose-your-website-design.png&quot; alt=&quot;choose your website design&quot; width=&quot;681&quot; height=&quot;445&quot; /&gt;
+
+&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/choose-your-website-design.png&quot; alt=&quot;choose your website design&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 
 &lt;p&gt;Firstly you must think of what’s the main purpose of your website is, and what content you want your visitors to see and which categories will you have on your website. I believe these are the three most important things you must consider for your website before choosing your website’s design.&lt;/p&gt;
 
@@ -60,14 +61,16 @@
 
 &lt;p&gt;Personally I am using &lt;a href=&quot;https://andreaseracleous.com/go/avada&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;&lt;span class=&quot;text-underline&quot;&gt;Avada theme&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt; for my WordPress websites.&lt;/p&gt;
 
-&lt;a href=&quot;https://andreaseracleous.com/go/avada&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;img class=&quot;aligncenter wp-image-2839 size-full&quot; src=&quot;http://andreaseracleous.com/wp-content/uploads/2016/11/avada-theme.png&quot; alt=&quot;Build a website with Avada theme&quot; width=&quot;790&quot; height=&quot;510&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://andreaseracleous.com/go/avada&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;
+&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2016/11/avada-theme.png&quot; alt=&quot;Build a website with Avada theme&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
+&lt;/a&gt;
 
 &lt;p&gt;Once you find you website design that fit in your needs go to the next step. Click below to see some examples website design templates.&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;a class=&quot;fusion-button button-3d fusion-button-round button-large button-default button-1&quot; href=&quot;https://andreaseracleous.com/go/themeforest-html-templates&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;span class=&quot;fusion-button-text&quot;&gt;HTML Templates&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;a class=&quot;fusion-button button-3d fusion-button-round button-large button-default button-2&quot; href=&quot;https://andreaseracleous.com/go/themeforest-wordpress-themes&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;span class=&quot;fusion-button-text&quot;&gt;WordPress Themes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;STEP #2: &lt;span class=&quot;text-underline&quot;&gt;Find a Domain Name&lt;/span&gt;&lt;/h3&gt;
-&lt;img class=&quot;aligncenter size-full wp-image-3407&quot; src=&quot;https://andreaseracleous.com/wp-content/uploads/2017/05/find-a-domain-name.png&quot; alt=&quot;Find a Domain Name&quot; width=&quot;720&quot; height=&quot;356&quot; /&gt;
+&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/find-a-domain-name.png&quot; alt=&quot;Find a Domain Name&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 &lt;p&gt;A&lt;strong&gt; Domain name&lt;/strong&gt; is used in URLs to identify particular web pages.&lt;/p&gt;
 
 &lt;p&gt;A domain name is linked to your website where people can find you and can contact you. For example: in the website address (URL) &lt;a href=&quot;https://andreaseracleous.com/about&quot;&gt;https://andreaseracleous.com/about&lt;/a&gt;, the domain name is &lt;em&gt;&lt;strong&gt;andreaseracleous.com&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -107,7 +110,8 @@
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;a class=&quot;fusion-button button-3d fusion-button-round button-large button-default button-3&quot; target=&quot;_self&quot;&gt;&lt;span class=&quot;fusion-button-text&quot;&gt;Find your perfect domain name&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;STEP #3: Buy a Web hosting package&lt;/h3&gt;
-&lt;img class=&quot;aligncenter size-full wp-image-3408&quot; src=&quot;https://andreaseracleous.com/wp-content/uploads/2017/05/buy-a-web-hosting-package.png&quot; alt=&quot;Buy a Web hosting package&quot; width=&quot;405&quot; height=&quot;296&quot; /&gt;
+
+&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/buy-a-web-hosting-package.png&quot; alt=&quot;Buy a Web hosting package&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 
 &lt;p&gt;Every website needs a &lt;span class=&quot;text-underline&quot;&gt;web hosting&lt;/span&gt; to store files. Basically &lt;strong&gt;&lt;em&gt;web hosting &lt;/em&gt;&lt;/strong&gt;is a computer where it provides you a piece of storage to store your web files and makes your website to be visible on the internet.&lt;/p&gt;
 
