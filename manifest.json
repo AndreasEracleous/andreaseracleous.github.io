@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "short_name": "AndreasEracleous",
+  "name": "Andreas Eracleous",
+  "description": "Front end web developer CSS Architecture and Performance Engineering",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [{
+    "src": "/img/icons/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }, {
+    "src": "/img/icons/256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }, {
+    "src": "/img/icons/128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }]
+}
