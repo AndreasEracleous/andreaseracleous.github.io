@@ -43,7 +43,8 @@ jQuery(document).ready(function($){
 
 	mainNav();
 
-    var logo = TweenMax.to('.logo-sprites',2,{repeat:-1,backgroundPosition: "0px -6200px",ease:SteppedEase.config(31)});
-    logo.play();
+
+    //var logo = TweenMax.to('.logo-sprites',2,{repeat:-1,backgroundPosition: "0px -6200px",ease:SteppedEase.config(31)});
+    //logo.play();
 
 });

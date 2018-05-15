@@ -178,6 +178,13 @@ h6 {
   height: 200px;
   background: url('../img/logo-sprites.png') 0 0 no-repeat;
   margin:0 auto;
+
+  -webkit-animation: playlogo 3.5s steps(31) infinite;
+  animation: playlogo 3.5s steps(31) infinite;
+}
+
+@keyframes playlogo {
+   100% { background-position:0 -6200px; }
 }
 
 h1,
