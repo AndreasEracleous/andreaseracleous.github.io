@@ -21,6 +21,11 @@ jQuery(document).ready(function($){
         var top = (document.documentElement && document.documentElement.scrollTop) || document.body.scrollTop;
         if (top > 0) {
             $(".header-nav").addClass("sticky-navigation");
+            if(top > 350){
+                $(".home .navbar-brand").css("display", "block");
+            } else {
+                $(".home .navbar-brand").css("display", "none");
+            }
         } else {
             $(".header-nav").removeClass("sticky-navigation");
         }
@@ -43,8 +48,6 @@ jQuery(document).ready(function($){
 
 	mainNav();
 
-
-    //var logo = TweenMax.to('.logo-sprites',2,{repeat:-1,backgroundPosition: "0px -6200px",ease:SteppedEase.config(31)});
-    //logo.play();
+    var logo = TweenMax.to('.logo-sprites',2.5, {repeat:-1, x:0, y:-4300, ease:SteppedEase.config(43)});
 
 });

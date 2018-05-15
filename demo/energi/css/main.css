@@ -167,10 +167,17 @@ h6 {
 
 .pagetitle {
     position: relative;
-    font-size: 3rem;
+    font-size: 3.5rem;
     font-weight: 300;
     letter-spacing: 5px;
+    line-height: 94px;
     color: #fff;
+}
+
+.logo-sprites-wrap {
+  width: 120px;
+  height: 100px;
+  overflow: hidden;
 }
 
 h1,
@@ -198,11 +205,12 @@ h3 {
 	font-weight: 300;
 	clear: both;
 }
-
+.text-gray {
+	color: #A5A6A8;
+}
 .text-indent {
 	text-indent: 50px;
 }
-
 
 p {
 	
@@ -272,10 +280,28 @@ p {
 	position: relative;
 	float: left;
 	clear: both;
+	font-size: 1.5rem;
+	font-weight: 300;
+	text-transform: uppercase;
+	color: #A5A6A8;
 	margin: 0;
 	padding: 0;
 	outline:0;
 	z-index: 99;
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus,
+.navbar-brand:active {
+	color: #fff;
+}
+.navbar-brand-img {
+	position: relative;
+	margin-top:-5px;
+}
+
+.home .navbar-brand {
+	display: none;
 }
 
 ul {
@@ -761,6 +787,7 @@ hr {
 		background-attachment: fixed !important;
 	}
 	.pagetitle {
+		width: auto;
 		font-size: 6rem;
 		letter-spacing: 10px;
 	}	
