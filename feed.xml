@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://andreaseracleous.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://andreaseracleous.com/" rel="alternate" type="text/html" /><updated>2018-07-29T21:28:11+03:00</updated><id>https://andreaseracleous.com/</id><title type="html">Andreas Eracleous</title><subtitle>Andreas Eracleous is a freelance Front-end Web Developer who is expert in PSD to responsive Bootstrap HTML, CSS, JavaScript and optimize website load speed.</subtitle><entry><title type="html">Best Way To Build A Website In Less Than 17 Minutes</title><link href="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/" rel="alternate" type="text/html" title="Best Way To Build A Website In Less Than 17 Minutes" /><published>2017-05-17T00:00:00+03:00</published><updated>2017-05-17T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes</id><content type="html" xml:base="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/">&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/make-a-website.png&quot; alt=&quot;Build a website&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="https://andreaseracleous.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://andreaseracleous.com/" rel="alternate" type="text/html" /><updated>2018-07-31T17:18:45+03:00</updated><id>https://andreaseracleous.com/</id><title type="html">Andreas Eracleous</title><subtitle>Andreas Eracleous is a freelance Front-end Web Developer who is expert in PSD to responsive Bootstrap HTML, CSS, JavaScript and optimize website load speed.</subtitle><entry><title type="html">Best Way To Build A Website In Less Than 17 Minutes</title><link href="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/" rel="alternate" type="text/html" title="Best Way To Build A Website In Less Than 17 Minutes" /><published>2017-05-17T00:00:00+03:00</published><updated>2017-05-17T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes</id><content type="html" xml:base="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/">&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/make-a-website.png&quot; alt=&quot;Build a website&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 
 &lt;p class=&quot;clearfix&quot;&gt;&lt;strong&gt;Hello there! I wrote this easy and quick guide for you, so that you can do it yourself website, without having any programming languages and coding knowledge or having to be an expert!&lt;/strong&gt;&lt;/p&gt;
 
@@ -7,7 +7,7 @@
 &lt;p&gt;&lt;strong&gt;I would love to help you create a successful website! &lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Follow the steps below and your will see how easy it is to have your own website live, sooner than you thought!&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2&gt;4 Simple Steps to Build A Website&lt;/h2&gt;
+&lt;h2 class=&quot;mt-5&quot;&gt;4 Simple Steps to Build A Website&lt;/h2&gt;
 &lt;p&gt;When I started working in the web development industry building high quality websites for other, I had to learn the website’s language. It took me a lot of effort and time to understand and know exactly &lt;strong&gt;&lt;em&gt;how to do it yourself website from scratch.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Thankfully you can still build a website even if you aren’t an expert web developer like me!&lt;/p&gt;
@@ -35,7 +35,8 @@
  	&lt;li&gt;&lt;em&gt;Web Hosting&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Without these you can’t have a website! So let see what these three things are and why you need them.&lt;/p&gt;
-&lt;h3&gt;STEP #1: &lt;span class=&quot;text-underline&quot;&gt;Choose Your Website Design&lt;/span&gt;&lt;/h3&gt;
+
+&lt;h3 class=&quot;mt-5&quot;&gt;STEP #1: &lt;span class=&quot;text-underline&quot;&gt;Choose Your Website Design&lt;/span&gt;&lt;/h3&gt;
 
 &lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/choose-your-website-design.png&quot; alt=&quot;choose your website design&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 
@@ -54,7 +55,8 @@
  	&lt;li&gt;&lt;em&gt;SERVICES (my services)&lt;/em&gt;&lt;/li&gt;
  	&lt;li&gt;&lt;em&gt;CONTACT (information how they can contact me)&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Find a website design template&lt;/h4&gt;
+
+&lt;h4 class=&quot;mt-5&quot;&gt;Find a website design template&lt;/h4&gt;
 &lt;p&gt;Now after knowing how your website structure will be, it’s time to select a website design template that you are going to use. Don’t worry! As I told you earlier you don’t have to learn a programming language. There are hundreds of amazing looking designs and templates out there you can select.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://themeforest.net/page/top_sellers?ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;&lt;em&gt;Themeforest&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; is great place to choose an elegant website design in low prices; they are providing more than 25,788 website templates both static and dynamic. Themeforest themes start as low as $2 up to $65 and you can find any template categories you like.&lt;/p&gt;
@@ -66,10 +68,12 @@
 &lt;/a&gt;
 
 &lt;p&gt;Once you find you website design that fit in your needs go to the next step. Click below to see some examples website design templates.&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a class=&quot;fusion-button button-3d fusion-button-round button-large button-default button-1&quot; href=&quot;https://themeforest.net/popular_item/by_category?category=site-templates&amp;ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;span class=&quot;fusion-button-text&quot;&gt;HTML Templates&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a class=&quot;fusion-button button-3d fusion-button-round button-large button-default button-2&quot; href=&quot;https://themeforest.net/popular_item/by_category?category=wordpress&amp;ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;span class=&quot;fusion-button-text&quot;&gt;WordPress Themes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;STEP #2: &lt;span class=&quot;text-underline&quot;&gt;Find a Domain Name&lt;/span&gt;&lt;/h3&gt;
+&lt;p class=&quot;text-center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg&quot; href=&quot;https://themeforest.net/popular_item/by_category?category=site-templates&amp;ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Templates&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg&quot; href=&quot;https://themeforest.net/popular_item/by_category?category=wordpress&amp;ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;WordPress Themes&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;mt-5&quot;&gt;STEP #2: &lt;span class=&quot;text-underline&quot;&gt;Find a Domain Name&lt;/span&gt;&lt;/h3&gt;
 &lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/find-a-domain-name.png&quot; alt=&quot;Find a Domain Name&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 &lt;p&gt;A&lt;strong&gt; Domain name&lt;/strong&gt; is used in URLs to identify particular web pages.&lt;/p&gt;
 
@@ -107,23 +111,23 @@
 
 &lt;p&gt;Once you find and register your domain name you need to get a &lt;em&gt;hosting account&lt;/em&gt; so that you can put content on your website where people will be able to see when type in your web address eg. &lt;a href=&quot;https://andreaseracleous.com/&quot;&gt;AndreasEracleous.com&lt;/a&gt;. A domain name alone will be useless without hosting!&lt;/p&gt;
 
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a class=&quot;fusion-button button-3d fusion-button-round button-large button-default button-3&quot; target=&quot;_self&quot;&gt;&lt;span class=&quot;fusion-button-text&quot;&gt;Find your perfect domain name&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;text-center&quot;&gt;&lt;a class=&quot;fusion-button button-3d fusion-button-round button-large button-default button-3&quot; target=&quot;_self&quot;&gt;&lt;span class=&quot;fusion-button-text&quot;&gt;Find your perfect domain name&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;STEP #3: Buy a Web hosting package&lt;/h3&gt;
+&lt;h3 class=&quot;mt-5&quot;&gt;STEP #3: Buy a Web hosting package&lt;/h3&gt;
 
 &lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/buy-a-web-hosting-package.png&quot; alt=&quot;Buy a Web hosting package&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 
 &lt;p&gt;Every website needs a &lt;span class=&quot;text-underline&quot;&gt;web hosting&lt;/span&gt; to store files. Basically &lt;strong&gt;&lt;em&gt;web hosting &lt;/em&gt;&lt;/strong&gt;is a computer where it provides you a piece of storage to store your web files and makes your website to be visible on the internet.&lt;/p&gt;
 
-&lt;h4&gt;How much does web hosting cost?&lt;/h4&gt;
+&lt;h4 class=&quot;mt-5&quot;&gt;How much does web hosting cost?&lt;/h4&gt;
 
 &lt;p&gt;There different hosting packages from different web hosting companies. A &lt;strong&gt;web hosting package&lt;/strong&gt; has a monthly cost and usually starts from $2.00 up to $10 per month and is enough for most websites out there. The exact price depends on which hosting package you will buy and what features that web hosting package includes.&lt;/p&gt;
 
 &lt;p&gt;In order to chose one you will need to ask yourself a few questions. For example: &lt;em&gt;how much space do you need to storage your content (images, videos and etc.), how many domain names do you want to create a website? how many email accounts do you want to be able to have with every domain name? (eg. support@MyDomainName.com, sales@ MyDomainName.com. how many databases you will need etc?&lt;/em&gt;&lt;/p&gt;
 
-&lt;h4&gt;Find a Web Hosting Plan&lt;/h4&gt;
+&lt;h4 class=&quot;mt-5&quot;&gt;Find a Web Hosting Plan&lt;/h4&gt;
 
-&lt;p&gt;&lt;strong&gt;Currently I’ve changed hosting company and I’ve moved all my websites and domain names to &lt;/strong&gt;&lt;a href=&quot;https://ua.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=BestHosting&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;InMotionHosting&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;. I am extremely happy with &lt;/strong&gt;&lt;a href=&quot;https://ua.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=BestHosting&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;www.inmotionhosting.com&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;! They offer very good hosting package deals which include most necessary features including an outstanding support from their expert’s team.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Currently I’ve changed hosting company and I’ve moved all my websites and domain names to &lt;/strong&gt;&lt;a href=&quot;https://inmotion-hosting.evyy.net/c/1270268/260033/4222?subId1=Best+Way+To+Build+A+Website+In+Less+Than+17+Minute&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;InMotionHosting&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;. I am extremely happy with &lt;/strong&gt; &lt;a href=&quot;https://inmotion-hosting.evyy.net/c/1270268/260033/4222?subId1=Best+Way+To+Build+A+Website+In+Less+Than+17+Minute&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;www.inmotionhosting.com&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;! They offer very good hosting package deals which include most necessary features including an outstanding support from their expert’s team.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Forget any other hosting provider out there that you have heard of like HostGator, BlueHost, (or even worse GoDaddy! NEVER go with them for hosting).&lt;/p&gt;
 
@@ -136,28 +140,28 @@
 &lt;p&gt;A good hosting package that I recommend you to get is the &lt;em&gt;Shared Business Hosting (LAUNCH).&lt;/em&gt; It costs only $5.99/mo and they will give you your chosen domain name for FREE!!&lt;/p&gt;
 
 &lt;p&gt;Also you will get an unlimited hosting storage, have as many email addresses as you want, easy to install applications and more!&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;a class=&quot;fusion-button button-3d fusion-button-round button-large button-default button-4&quot; href=&quot;https://andreaseracleous.com/go/web-hosting-plans&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;&lt;span class=&quot;fusion-button-text&quot;&gt;Choose Web hosting plans&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;text-center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg&quot; href=&quot;https://inmotion-hosting.evyy.net/c/1270268/260033/4222?subId1=Best+Way+To+Build+A+Website+In+Less+Than+17+Minute&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;fusion-button-text&quot;&gt;Choose Web hosting plans&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3&gt;FINAL STEP: &lt;span class=&quot;text-underline&quot;&gt;Set Up Your Website&lt;/span&gt;&lt;/h3&gt;
+&lt;h3 class=&quot;mt-5&quot;&gt;FINAL STEP: &lt;span class=&quot;text-underline&quot;&gt;Set Up Your Website&lt;/span&gt;&lt;/h3&gt;
 
 &lt;p&gt;Once you’ve bought your domain name and set up your hosting, you’re well on your way! Now it’s time to get your website up and running. The first thing you’ll need to do is install WordPress on your domain.&lt;/p&gt;
 
-&lt;h4&gt;What is WordPress?&lt;/h4&gt;
+&lt;h4 class=&quot;mt-5&quot;&gt;What is WordPress?&lt;/h4&gt;
 
 &lt;p&gt;A WordPress platform it's probably the easiest and most powerful blogging and website content management system (or CMS) in existence today where most newbies will be able to install and create their website in minutes without any programming language knowledge!&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Steps to install WordPress&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The fastest way to install WordPress is by using &lt;a href=&quot;https://www.softaculous.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;span class=&quot;text-underline&quot;&gt;Softaculous Apps Installer&lt;/span&gt;&lt;/a&gt;. You can find the Softaculous feature through your cPanel. (A cPanel is generally just a control panel that provides a graphical interface and automation tools designed to simplify the process of hosting a web site.&lt;/p&gt;
+&lt;p&gt;The fastest way to install WordPress is by using &lt;a href=&quot;https://www.softaculous.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;&lt;span class=&quot;text-underline&quot;&gt;Softaculous Apps Installer&lt;/span&gt;&lt;/a&gt;. You can find the Softaculous feature through your cPanel. (A cPanel is generally just a control panel that provides a graphical interface and automation tools designed to simplify the process of hosting a web site.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Here are the steps you should follow:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
- 	&lt;li&gt;Log in to your &lt;strong&gt;&lt;a href=&quot;https://ua.inmotionhosting.com/cgi-bin/gby/clickthru.cgi?id=BestHosting&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;InMotionHosting&lt;/a&gt;&lt;/strong&gt; account.&lt;/li&gt;
+ 	&lt;li&gt;Log in to your &lt;strong&gt;&lt;a href=&quot;https://inmotion-hosting.evyy.net/c/1270268/260033/4222?subId1=Best+Way+To+Build+A+Website+In+Less+Than+17+Minute&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;InMotionHosting&lt;/a&gt;&lt;/strong&gt; account.&lt;/li&gt;
  	&lt;li&gt;Go to your Control Panel.&lt;/li&gt;
  	&lt;li&gt;Go to search box and type “Softaculous” or click on “WordPress” logo.&lt;/li&gt;
  	&lt;li&gt;Click on the “Install Now” button.&lt;/li&gt;
  	&lt;li&gt;Fill in all necessary WordPress set up information.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="build a website cheapest" /><summary type="html">Hello there! I wrote this easy and quick guide for you, so that you can do it yourself website, without having any programming languages and coding knowledge or having to be an expert! As a web developer, I can say that in general building a well designed website from scratch takes a lot of time. It requires design skills but coding skills as well. A website is built with technologies such HTML, CSS and JavaScript or other web programming languages.</summary></entry><entry><title type="html">Make Bootstrap Buttons same height</title><link href="https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height/" rel="alternate" type="text/html" title="Make Bootstrap Buttons same height" /><published>2016-09-25T00:00:00+03:00</published><updated>2016-09-25T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height</id><content type="html" xml:base="https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height/">I have wrote a JavaScript function that read all the buttons height through a page and make them to have same height size using jQuery.
+&lt;/ol&gt;</content><author><name></name></author><category term="build-a-website-cheapest" /><summary type="html">Hello there! I wrote this easy and quick guide for you, so that you can do it yourself website, without having any programming languages and coding knowledge or having to be an expert! As a web developer, I can say that in general building a well designed website from scratch takes a lot of time. It requires design skills but coding skills as well. A website is built with technologies such HTML, CSS and JavaScript or other web programming languages.</summary></entry><entry><title type="html">Make Bootstrap Buttons same height</title><link href="https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height/" rel="alternate" type="text/html" title="Make Bootstrap Buttons same height" /><published>2016-09-25T00:00:00+03:00</published><updated>2016-09-25T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height</id><content type="html" xml:base="https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height/">I have wrote a JavaScript function that read all the buttons height through a page and make them to have same height size using jQuery.
 &lt;!--more--&gt;
 &lt;h2&gt;How to equal height Javascript function works?&lt;/h2&gt;
 &lt;p&gt;The Javascript function finds all buttons that are inside of this HTML &quot;&lt;strong&gt;data-equal-btns&lt;/strong&gt;&quot; attribute name and then stores all the element button in array.&lt;/p&gt;
@@ -176,7 +180,7 @@ Next Javascript retrieves DOM buttons object from array list and go through un
 Example:
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;MeewxY&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Bootstrap Equal Height Buttons&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/MeewxY/&quot;&gt;Bootstrap Equal Height Buttons&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="same height buttons" /><summary type="html">I have wrote a JavaScript function that read all the buttons height through a page and make them to have same height size using jQuery.</summary></entry><entry><title type="html">Bootstrap Collapse Panel Examples</title><link href="https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples/" rel="alternate" type="text/html" title="Bootstrap Collapse Panel Examples" /><published>2016-06-29T00:00:00+03:00</published><updated>2016-06-29T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples</id><content type="html" xml:base="https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples/">In this post I will show you how to transform a &lt;strong&gt;Bootstrap Collapse Panel&lt;/strong&gt; to &lt;em&gt;Accordion Menu&lt;/em&gt;, implement a &lt;em&gt;Bootstrap Collapse Panel with icon&lt;/em&gt; and also on how to create a &lt;em&gt;Bootstrap Accordion Expand/Collapse All&lt;/em&gt; (open / close all) to control all the collapse panels.
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="same-height-buttons" /><summary type="html">I have wrote a JavaScript function that read all the buttons height through a page and make them to have same height size using jQuery.</summary></entry><entry><title type="html">Bootstrap Collapse Panel Examples</title><link href="https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples/" rel="alternate" type="text/html" title="Bootstrap Collapse Panel Examples" /><published>2016-06-29T00:00:00+03:00</published><updated>2016-06-29T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples</id><content type="html" xml:base="https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples/">In this post I will show you how to transform a &lt;strong&gt;Bootstrap Collapse Panel&lt;/strong&gt; to &lt;em&gt;Accordion Menu&lt;/em&gt;, implement a &lt;em&gt;Bootstrap Collapse Panel with icon&lt;/em&gt; and also on how to create a &lt;em&gt;Bootstrap Accordion Expand/Collapse All&lt;/em&gt; (open / close all) to control all the collapse panels.
 &lt;!--more--&gt;
 &lt;h2&gt;Creating Bootstrap Accordion&lt;/h2&gt;
 First of all &lt;strong&gt;&lt;em&gt;Bootstrap JS Collapse&lt;/em&gt;&lt;/strong&gt; plugin allows you to manage a large content on your pages by putting into collapse panel with toggle between hiding and showing content.
@@ -201,7 +205,9 @@ First of all &lt;strong&gt;&lt;em&gt;Bootstrap JS Collapse&lt;/em&gt;&lt;/stron
 
 &lt;p&gt;I have used &lt;strong&gt;flex CSS property&lt;/strong&gt; to make all their submenus to have the same length, regardless of its content. Therefore I have changed the bootstrap navigation breakpoint to collapse in small devices &lt;em&gt;tablets display&lt;/em&gt; between &lt;strong&gt;768 pixels&lt;/strong&gt; and &lt;strong&gt;991 pixels&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You can find the CSS code below and see how you can change the &lt;em&gt;Bootstrap NavBar Breakpoint&lt;/em&gt;.&lt;/p&gt;
 
-&lt;pre class=&quot;lang:default decode:true&quot;&gt;@media (max-width: 991px) {
+&lt;pre class=&quot;lang:default decode:true&quot;&gt;
+&lt;code class=&quot;language-css&quot;&gt;
+@media (max-width: 991px) {
     .navbar-header {
         float: none;
     }
@@ -237,7 +243,9 @@ First of all &lt;strong&gt;&lt;em&gt;Bootstrap JS Collapse&lt;/em&gt;&lt;/stron
     .collapsing {
         overflow: hidden!important;
     }
-}&lt;/pre&gt;
+}
+&lt;/code&gt;
+&lt;/pre&gt;
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;pyXypB&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Bootstrap Menu Example - 1&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/pyXypB/&quot;&gt;Bootstrap Menu Example - 1&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
 &lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">Bootstrap Menu component is a responsive navigation bar for using on a website or a web app. By default, The Bootstrap responsive menu bar collapses (vertically stacks) in small devices phones display lower than 768 pixels. In this example, I have been experimented with the Bootstrap menu (Navbar component)  and I have made some modification on it through the CSS stylesheet.</summary></entry><entry><title type="html">Bootstrap Responsive Table with CSS3</title><link href="https://andreaseracleous.com/blog/bootstrap-responsive-table-with-css3/" rel="alternate" type="text/html" title="Bootstrap Responsive Table with CSS3" /><published>2016-04-21T00:00:00+03:00</published><updated>2016-04-21T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/bootstrap-responsive-table-with-css3</id><content type="html" xml:base="https://andreaseracleous.com/blog/bootstrap-responsive-table-with-css3/">I spent some time playing with the &lt;em&gt;&lt;strong&gt;Bootstrap Responsive Table&lt;/strong&gt;&lt;/em&gt;. I was very curious about on how can I create a responsive table with just CSS code without any interaction of Javascript code. I found that nearly impossible to make it happens until I learned about the attribute &lt;strong&gt;attr()&lt;/strong&gt; function on CSS.
@@ -250,12 +258,15 @@ You can create a responsive tables with Bootstrap by wrapping any &lt;em&gt;
 &amp;nbsp;
 
 in &lt;em&gt;.table-responsive &lt;/em&gt;like the below example:
-&lt;pre&gt;&lt;/pre&gt;
-&lt;div class=&quot;table-responsive&quot;&gt;
- ...
-&amp;nbsp;
-&lt;/div&gt;
+&lt;pre&gt;
+&lt;code class=&quot;language-markup&quot;&gt;
 
+	&amp;lt;div class=&quot;table-responsive&quot;&amp;gt;
+	 ...
+	&amp;lt;/div&amp;gt;
+
+&lt;/code&gt;
+&lt;/pre&gt;
 On small screen under 768px you will notice that appearing a scroll horizontally and whilst on larger screen than 768px wide, you will not see any difference in these tables.
 
 The result has as following:
@@ -266,19 +277,24 @@ The result has as following:
 
 I set an attribute on the &lt;em&gt;&lt;strong&gt;td&lt;/strong&gt;&lt;/em&gt; element of the &lt;em&gt;&lt;strong&gt;table&lt;/strong&gt;&lt;/em&gt; and then using the content property and attribute &lt;em&gt;&lt;strong&gt;attr()&lt;/strong&gt;&lt;/em&gt; function for reading the content of the element.
 
-&lt;pre lang=&quot;lang&quot;&gt;&lt;/pre&gt;[/fusion_text][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container hundred_percent=&quot;yes&quot; overflow=&quot;visible&quot;][fusion_builder_row][fusion_builder_column type=&quot;1_1&quot; layout=&quot;1_1&quot; background_position=&quot;left top&quot; background_color=&quot;&quot; border_size=&quot;&quot; border_color=&quot;&quot; border_style=&quot;solid&quot; spacing=&quot;yes&quot; background_image=&quot;&quot; background_repeat=&quot;no-repeat&quot; padding=&quot;&quot; margin_top=&quot;0px&quot; margin_bottom=&quot;0px&quot; class=&quot;&quot; id=&quot;&quot; animation_type=&quot;&quot; animation_speed=&quot;0.3&quot; animation_direction=&quot;left&quot; hide_on_mobile=&quot;no&quot; center_content=&quot;no&quot; min_height=&quot;none&quot; last=&quot;no&quot; hover_type=&quot;none&quot; link=&quot;&quot; border_position=&quot;all&quot;][fusion_text][row-header]:before {
-content: attr(row-header);
-display: inline-block;
-vertical-align: middle;
-text-align: left;
-width: 50%;
-padding-right:30px;
-}
+&lt;pre lang=&quot;lang&quot;&gt;
+&lt;code class=&quot;language-css&quot;&gt;
+[row-header]:before {
+	content: attr(row-header);
+	display: inline-block;
+	vertical-align: middle;
+	text-align: left;
+	width: 50%;
+	padding-right:30px;
+}	
+&lt;/code&gt;
+&lt;/pre&gt;
+
 
 Below you can see the Unresponsive Table, Responsive Table with Bootstrap and Responsive Table with Custom Style code:
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;wGjpZX&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Bootstrap Responsive Table&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/wGjpZX/&quot;&gt;Bootstrap Responsive Table&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">I spent some time playing with the Bootstrap Responsive Table. I was very curious about on how can I create a responsive table with just CSS code without any interaction of Javascript code. I found that nearly impossible to make it happens until I learned about the attribute attr() function on CSS.</summary></entry><entry><title type="html">Notification Popup with CSS3 and HTML5</title><link href="https://andreaseracleous.com/blog/notification-popup-css3-html5/" rel="alternate" type="text/html" title="Notification Popup with CSS3 and HTML5" /><published>2016-04-20T00:00:00+03:00</published><updated>2016-04-20T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/notification-popup-css3-html5</id><content type="html" xml:base="https://andreaseracleous.com/blog/notification-popup-css3-html5/">I created a notification pop up with just CSS3 and HTML5 code.
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="responsive-table" /><summary type="html">I spent some time playing with the Bootstrap Responsive Table. I was very curious about on how can I create a responsive table with just CSS code without any interaction of Javascript code. I found that nearly impossible to make it happens until I learned about the attribute attr() function on CSS.</summary></entry><entry><title type="html">Notification Popup with CSS3 and HTML5</title><link href="https://andreaseracleous.com/blog/notification-popup-css3-html5/" rel="alternate" type="text/html" title="Notification Popup with CSS3 and HTML5" /><published>2016-04-20T00:00:00+03:00</published><updated>2016-04-20T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/notification-popup-css3-html5</id><content type="html" xml:base="https://andreaseracleous.com/blog/notification-popup-css3-html5/">I created a notification pop up with just CSS3 and HTML5 code.
 
 If the mouse over on the &quot;bell&quot; icon you will notice, a show list appears with the notifications.
 &lt;!--more--&gt;
@@ -319,7 +335,7 @@ Few common steps are following:
 
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;wGXQBb&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Checkout Progress Bar&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/wGXQBb/&quot;&gt;Checkout Progress Bar&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="checkout" /><category term="progress" /><category term="bar" /><summary type="html">In this post, I made a Checkout Progress Bar without images just few lines of code of HTML5, CSS3 and jQuery. Progress Bar is helpful on a website when you want the user to follow a specific order of steps until to complete all of them. The main goal of a Progress Bar is to show you where you are in the entire process and what steps you’ve already completed.</summary></entry><entry><title type="html">Align text vertically center in div with CSS</title><link href="https://andreaseracleous.com/blog/align-text-vertically-center-div-css/" rel="alternate" type="text/html" title="Align text vertically center in div with CSS" /><published>2016-04-20T00:00:00+03:00</published><updated>2016-04-20T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/align-text-vertically-center-div-css</id><content type="html" xml:base="https://andreaseracleous.com/blog/align-text-vertically-center-div-css/">In this example I will show you on how you can align text vertically in the middle with div tag. There are few ways to align a text vertically in the center using CSS code.
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="checkout-progress-bar" /><summary type="html">In this post, I made a Checkout Progress Bar without images just few lines of code of HTML5, CSS3 and jQuery. Progress Bar is helpful on a website when you want the user to follow a specific order of steps until to complete all of them. The main goal of a Progress Bar is to show you where you are in the entire process and what steps you’ve already completed.</summary></entry><entry><title type="html">Align text vertically center in div with CSS</title><link href="https://andreaseracleous.com/blog/align-text-vertically-center-div-css/" rel="alternate" type="text/html" title="Align text vertically center in div with CSS" /><published>2016-04-20T00:00:00+03:00</published><updated>2016-04-20T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/align-text-vertically-center-div-css</id><content type="html" xml:base="https://andreaseracleous.com/blog/align-text-vertically-center-div-css/">In this example I will show you on how you can align text vertically in the middle with div tag. There are few ways to align a text vertically in the center using CSS code.
 &lt;!--more--&gt;
 &lt;h2&gt;Ways to align text vertically center&lt;/h2&gt;
 Below are the properties that can use to vertical align a text in the middle of a div tag.
@@ -330,12 +346,13 @@ Below are the properties that can use to vertical align a text in the middle of 
 &lt;/ul&gt;
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;VYBLrN&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Align text vertically center&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/VYBLrN/&quot;&gt;Align text vertically center&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="align" /><category term="text" /><category term="vertically" /><category term="center," /><category term="align" /><category term="text" /><category term="vertically" /><category term="middle" /><summary type="html">In this example I will show you on how you can align text vertically in the middle with div tag. There are few ways to align a text vertically in the center using CSS code.</summary></entry><entry><title type="html">Create your first web page dynamic with AngularJS</title><link href="https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs/" rel="alternate" type="text/html" title="Create your first web page dynamic with AngularJS" /><published>2016-01-06T00:00:00+02:00</published><updated>2016-01-06T00:00:00+02:00</updated><id>https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs</id><content type="html" xml:base="https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs/">First of all you have to go at &lt;a href=&quot;angularjs.org&quot;&gt;angularjs.org&lt;/a&gt; website and click on the download button for downloading the AngularJS javascript file or otherwise copy the link &lt;em&gt;content distribution network&lt;/em&gt; (&lt;em&gt;CDN&lt;/em&gt;).
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="align-text-vertically-center," /><category term="align-text-vertically-middle" /><summary type="html">In this example I will show you on how you can align text vertically in the middle with div tag. There are few ways to align a text vertically in the center using CSS code.</summary></entry><entry><title type="html">Create your first web page dynamic with AngularJS</title><link href="https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs/" rel="alternate" type="text/html" title="Create your first web page dynamic with AngularJS" /><published>2016-01-06T00:00:00+02:00</published><updated>2016-01-06T00:00:00+02:00</updated><id>https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs</id><content type="html" xml:base="https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs/">First of all you have to go at &lt;a href=&quot;angularjs.org&quot;&gt;angularjs.org&lt;/a&gt; website and click on the download button for downloading the AngularJS javascript file or otherwise copy the link &lt;em&gt;content distribution network&lt;/em&gt; (&lt;em&gt;CDN&lt;/em&gt;).
 
 &lt;!--more--&gt;
 
 Then embed it into your HTML file like code below:
-&lt;pre class=&quot;lang:default decode:true&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;
+&lt;pre&gt;
+&lt;code class=&quot;language-markup&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;
 &amp;lt;html ng-app&amp;gt;
 
 &amp;lt;head&amp;gt;
@@ -348,12 +365,12 @@ Then embed it into your HTML file like code below:
   &amp;lt;h3&amp;gt;{{name}}&amp;lt;/h3&amp;gt;
 &amp;lt;/body&amp;gt;
 
-&amp;lt;/html&amp;gt;&lt;/pre&gt;
+&amp;lt;/html&amp;gt;&lt;/code&gt;&lt;/pre&gt;
 Output:
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;VYmOVP&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;First page with AngularJS&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/VYmOVP/&quot;&gt;First page with AngularJS&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="AngularJS" /><summary type="html">First of all you have to go at angularjs.org website and click on the download button for downloading the AngularJS javascript file or otherwise copy the link content distribution network (CDN).</summary></entry><entry><title type="html">Beautiful Colors CSS3 Buttons</title><link href="https://andreaseracleous.com/blog/beautiful-colors-css3-buttons/" rel="alternate" type="text/html" title="Beautiful Colors CSS3 Buttons" /><published>2015-10-24T00:00:00+03:00</published><updated>2015-10-24T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/beautiful-colors-css3-buttons</id><content type="html" xml:base="https://andreaseracleous.com/blog/beautiful-colors-css3-buttons/">I created some buttons in pure CSS3 in various colours. I selected these beautiful colors from &lt;a href=&quot;https://www.google.com/design/spec/style/color.html&quot; target=&quot;_blank&quot;&gt;Material Design&lt;/a&gt;.
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="angularjs" /><summary type="html">First of all you have to go at angularjs.org website and click on the download button for downloading the AngularJS javascript file or otherwise copy the link content distribution network (CDN).</summary></entry><entry><title type="html">Beautiful Colors CSS3 Buttons</title><link href="https://andreaseracleous.com/blog/beautiful-colors-css3-buttons/" rel="alternate" type="text/html" title="Beautiful Colors CSS3 Buttons" /><published>2015-10-24T00:00:00+03:00</published><updated>2015-10-24T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/beautiful-colors-css3-buttons</id><content type="html" xml:base="https://andreaseracleous.com/blog/beautiful-colors-css3-buttons/">I created some buttons in pure CSS3 in various colours. I selected these beautiful colors from &lt;a href=&quot;https://www.google.com/design/spec/style/color.html&quot; target=&quot;_blank&quot;&gt;Material Design&lt;/a&gt;.
 
 You can find the CSS3 Buttons HTML/CSS code below:
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;XmZVLZ&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Material Design Buttons Colors&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/XmZVLZ/&quot;&gt;Material Design Buttons Colors&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="CSS3-Buttons" /><summary type="html">I created some buttons in pure CSS3 in various colours. I selected these beautiful colors from Material Design. You can find the CSS3 Buttons HTML/CSS code below: See the Pen Material Design Buttons Colors by Andreas Eracleous (@Sp00ky) on CodePen.</summary></entry></feed>
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="css3-buttons" /><summary type="html">I created some buttons in pure CSS3 in various colours. I selected these beautiful colors from Material Design. You can find the CSS3 Buttons HTML/CSS code below: See the Pen Material Design Buttons Colors by Andreas Eracleous (@Sp00ky) on CodePen.</summary></entry></feed>
