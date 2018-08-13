@@ -37,7 +37,7 @@
     }
     }
 
-    var mainFont = new FontFaceObserver('Lato');
+    var mainFont = new FontFaceObserver('Nunito Sans');
 
     mainFont.load().then(function () {
       console.log('Lato is available');

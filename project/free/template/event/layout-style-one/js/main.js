@@ -120,7 +120,7 @@ wow.init();
 	===  COUNTDOWN            ====
 	=================================== */
 	var startDate = $("#display-countdown").attr("aria-startdate");
-    $('#display-countdown').countdown(startDate, function(event) {
+    $('#display-countdown').countdown(startDate).on('update.countdown', function(event) {
 		var $this = $(this).html(event.strftime(''
 				+ '<span>%-w</span> week%!w '
 				+ '<span>%-d</span> day%!d '
