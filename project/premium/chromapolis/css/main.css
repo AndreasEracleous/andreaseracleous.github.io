@@ -116,6 +116,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#204ac2', end
 }
 
 .large-title {
+	font-size: 4rem;
 	letter-spacing: 0.25rem;
 }
 .container {
@@ -124,10 +125,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#204ac2', end
 .header {
 	max-width: 1477px;
 	margin: 0 auto;
-}
-.chromapolis-area {
-	position: relative;
-	margin-top: -6rem;
 }
 
 .feature-list-item {
@@ -298,7 +295,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#204ac2', end
 .timeline ol li:last-child,  .timeline ol li:nth-last-child(2) div::before,  .timeline ol li:not(:last-child)::after,  .timeline .arrows { display: none; }}
 
 footer {
-padding: 8rem 0;
+padding: 6rem 0;
 background: #1b14af;
 background: -moz-linear-gradient(left, #1b14af 0%, #18ddfd 100%);
 background: -webkit-linear-gradient(left, #1b14af 0%,#18ddfd 100%);
@@ -358,4 +355,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1b14af', end
 .footer-form-control:hover,
 .footer-form-control:focus {
 	outline: 0;
+}
+
+@media (min-width:768px) {
+	.large-title {
+		font-size: 5rem;
+	}
+}
+
+@media (min-width:992px) {
+	.chromapolis-area {
+		position: relative;
+		margin-top: -6rem;
+	}
+
+	.large-title {
+		font-size: 6rem;
+	}
 }
