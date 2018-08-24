@@ -49,15 +49,11 @@ body {
 	font-family: 'Urbane', sans-serif;
 	font-family: "Helvetica Neue",Arial , sans-serif;
 	font-size: 1rem;
+	line-height: 1.75rem;
 	color: #101934;
-	font-weight: normal;
+	font-weight: 300;
 }
-.mt-6, .my-6 {
-    margin-top: 8rem!important;
-}
-.mt-7, .my-7 {
-    margin-top: 10rem!important;
-}
+
 .text-blue {
 	color: #244ebf!important;
 }
@@ -80,9 +76,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#204ac2', end
 	background-color: #e9f7f9;
 }
 .btn {
-	font-size: 0.875rem;
+    padding: .475rem 1.25rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    line-height: 1.5;
     border-radius: 5rem;
-    color: #244ebf;
+	color: #244ebf;
 }
 .btn-white {
     color: #244ebf;
@@ -100,13 +99,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#204ac2', end
     border-color: #d39e00;
 }
 .btn-group-lg>.btn, .btn-lg {
-    padding: 1.3rem 5rem;
+    padding: 1.3rem 5.45rem;
     font-size: 0.875rem;
     line-height: 1.5;
     border-radius: 5rem;
 }
+
 .nav-header-link {
 	color: #fff;
+	padding: .5rem 1.5rem;
 }
 
 .nav-header-link:hover,
@@ -229,17 +230,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#204ac2', end
   white-space: normal;
   background: none;
 }
-/*
-.timeline ol li div::before {
-  content: '';
-  position: absolute;
-  top: 100%;
-  left: 0;
-  width: 0;
-  height: 0;
-  border-style: solid;
-}
-*/
 
 .timeline ol li div { top: calc(100% + 80px); }
 
@@ -322,30 +312,46 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1b14af', end
 	margin: 0;
 }
 .footer-link-list > li {
-	margin-top: 1rem;
+	font-weight: 300;
+	margin: .35rem 0;
 }
 .footer-link-list > li:after {
 	display: inline-block;
 	content: ">";
+	font-size: 0.85rem;
 	color: #fff;
 	margin-left: 5px;
 }
 .footer-social-icons > li {
-	font-size: 1.125rem;
+	font-size: 1.45rem;
 }
 .footer-social-icons > li + li {
 	margin-left: 1.8rem;
 }
 
 .footer-btn-white {
+	position: relative;
     color: #244ebf;
     background-color: #fff;
     border:none;
-    padding: 0 .75rem;
+    padding: 0 1.45rem;
 }
+
+.footer-btn-white:before {
+	position: absolute;
+	content:"";
+	top: 0;
+	bottom: 0;
+	left: 0;
+	width: 1px;
+	height: 40px;
+	margin:auto 0;
+	border-left: 1px solid #18DDFD;
+}
+
 .footer-form-control {
     height: calc(3.80rem + 3px);
-    padding: .475rem .75rem;
+    padding: .475rem 2rem;
     border-radius: 5rem;
     border:none;
 }

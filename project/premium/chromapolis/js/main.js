@@ -23,7 +23,7 @@ $(this).popover({
     arrowNext = document.querySelector(".timeline .arrows .arrow__next"),
     firstItem = document.querySelector(".timeline li:first-child"),
     lastItem = document.querySelector(".timeline li:last-child"),
-    xScrolling = 280,
+    xScrolling = 500,
     disabledClass = "disabled";
 
   // START
