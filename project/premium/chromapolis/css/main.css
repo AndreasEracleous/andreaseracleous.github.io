@@ -1,59 +1,56 @@
 @font-face {
-    font-family: 'urbane-bold';
-    src: url('../fonts/urbane-bold-webfont.woff2') format('woff2'),
-         url('../fonts/urbane-bold-webfont.woff') format('woff');
-    font-weight: 700;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'urbane-semibold';
-    src: url('../fonts/urbane-demibold-webfont.woff2') format('woff2'),
-         url('../fonts/urbane-demibold-webfont.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'urbane-black';
-    src: url('../fonts/urbane-heavy-webfont.woff2') format('woff2'),
-         url('../fonts/urbane-heavy-webfont.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'urbane-light';
-    src: url('../fonts/urbane-light-webfont.woff2') format('woff2'),
-         url('../fonts/urbane-light-webfont.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'urbane-medium';
-    src: url('../fonts/urbane-medium-webfont.woff2') format('woff2'),
-         url('../fonts/urbane-medium-webfont.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'urbane-thin';
-    src: url('../fonts/urbane-thin-webfont.woff2') format('woff2'),
-         url('../fonts/urbane-thin-webfont.woff') format('woff');
+    font-family: 'Urbane';
+    src: url('../fonts/Urbane-Thin.woff2') format('woff2'),
+        url('../fonts/Urbane-Thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
+}
 
+@font-face {
+    font-family: 'Urbane';
+    src: url('../fonts/Urbane-Light.woff2') format('woff2'),
+        url('../fonts/Urbane-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../fonts/Urbane-DemiBold.woff2') format('woff2'),
+        url('../fonts/Urbane-DemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../fonts/Urbane-Medium.woff2') format('woff2'),
+        url('../fonts/Urbane-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../fonts/Urbane-Heavy.woff2') format('woff2'),
+        url('../fonts/Urbane-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Urbane';
+    src: url('../fonts/Urbane-Bold.woff2') format('woff2'),
+        url('../fonts/Urbane-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
 }
 body {
-	font-family: 'urbane-medium', sans-serif;
+	font-family: 'Urbane', sans-serif;
+	font-family: "Helvetica Neue",Arial , sans-serif;
 	font-size: 1rem;
+	color: #101934;
+	font-weight: normal;
 }
 .mt-6, .my-6 {
     margin-top: 8rem!important;
@@ -73,11 +70,11 @@ body {
 }
 
 .bg-gradient-blue {
-background: #244fbf;
-background: -moz-linear-gradient(left, #244fbf 0%, #2fdcfa 100%);
-background: -webkit-linear-gradient(left, #244fbf 0%,#2fdcfa 100%);
-background: linear-gradient(to right, #244fbf 0%,#2fdcfa 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#244fbf', endColorstr='#2fdcfa',GradientType=1 );
+background: #204ac2;
+background: -moz-linear-gradient(left, #204ac2 0%, #18ddfd 100%);
+background: -webkit-linear-gradient(left, #204ac2 0%,#18ddfd 100%);
+background: linear-gradient(to right, #204ac2 0%,#18ddfd 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#204ac2', endColorstr='#18ddfd',GradientType=1 );
 }
 .bg-light-green {
 	background-color: #e9f7f9;
@@ -118,17 +115,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#244fbf', end
 }
 
 .large-title {
-
+	letter-spacing: 0.25rem;
+}
+.container {
+	max-width: 1108px;
 }
 .header {
-	max-width: 1340px;
+	max-width: 1477px;
 	margin: 0 auto;
 }
 .chromapolis-area {
 	position: relative;
-	/*
-	margin-top: -5rem;
-	*/
+	margin-top: -6rem;
 }
 
 .feature-list-item {
@@ -311,11 +309,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#244fbf', end
 
 footer {
 	padding: 8rem 0;
-background: #1d20ac;
-background: -moz-linear-gradient(left, #1d20ac 0%, #2fdcfa 100%);
-background: -webkit-linear-gradient(left, #1d20ac 0%,#2fdcfa 100%);
-background: linear-gradient(to right, #1d20ac 0%,#2fdcfa 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1d20ac', endColorstr='#2fdcfa',GradientType=1 );
+background: #1b14af;
+background: -moz-linear-gradient(left, #1b14af 0%, #18ddfd 100%);
+background: -webkit-linear-gradient(left, #1b14af 0%,#18ddfd 100%);
+background: linear-gradient(to right, #1b14af 0%,#18ddfd 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1b14af', endColorstr='#18ddfd',GradientType=1 );
 }
 .footer-link-list, 
 .footer-social-icons {
