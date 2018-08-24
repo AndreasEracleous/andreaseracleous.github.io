@@ -1,7 +1,59 @@
+@font-face {
+    font-family: 'urbane-bold';
+    src: url('../fonts/urbane-bold-webfont.woff2') format('woff2'),
+         url('../fonts/urbane-bold-webfont.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'urbane-semibold';
+    src: url('../fonts/urbane-demibold-webfont.woff2') format('woff2'),
+         url('../fonts/urbane-demibold-webfont.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'urbane-black';
+    src: url('../fonts/urbane-heavy-webfont.woff2') format('woff2'),
+         url('../fonts/urbane-heavy-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'urbane-light';
+    src: url('../fonts/urbane-light-webfont.woff2') format('woff2'),
+         url('../fonts/urbane-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'urbane-medium';
+    src: url('../fonts/urbane-medium-webfont.woff2') format('woff2'),
+         url('../fonts/urbane-medium-webfont.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'urbane-thin';
+    src: url('../fonts/urbane-thin-webfont.woff2') format('woff2'),
+         url('../fonts/urbane-thin-webfont.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+
+}
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'urbane-medium', sans-serif;
 	font-size: 1rem;
-	font-weight: 300;
 }
 .mt-6, .my-6 {
     margin-top: 8rem!important;
@@ -119,6 +171,144 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#244fbf', end
 .bs-popover-top {
     margin-bottom: 2rem;
 }
+
+.timeline {
+  white-space: nowrap;
+  overflow-x: hidden;
+}
+
+.timeline ol {
+  font-size: 0;
+  width: 100vw;
+  padding: 0 0 250px 0;
+  transition: all 1s;
+}
+
+.timeline ol li {
+  position: relative;
+  display: inline-block;
+  list-style-type: none;
+  width: 560px;
+  height: 1px;
+  background: #244ebf;
+}
+/*
+.timeline ol li:nth-child(1) {
+	width: 160px;
+}
+*/
+.timeline ol li:last-child { width: auto; }
+
+.timeline ol li:not(:last-child)::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 1px;
+	height: 40px;
+	background-color:#244ebf;	
+}
+
+.timeline ol li:not(:last-child)::after {
+    content: '';
+    position: absolute;
+    left: -5px;
+    bottom: -50px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: 1px solid #244ebf;
+    /* background: #244ebf; */
+}
+
+.timeline ol li div {
+  position: absolute;
+  left: 0;
+  width: 500px;
+  padding: 0;
+  font-size: 1rem;
+  white-space: normal;
+  background: none;
+}
+/*
+.timeline ol li div::before {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
+*/
+
+.timeline ol li div { top: calc(100% + 80px); }
+
+.timeline ol li div::before {
+  top: -8px;
+  border-width: 8px 0 0 8px;
+  border-color: transparent transparent transparent white;
+}
+
+.timeline time {
+  display: block;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.timeline .arrows {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.timeline .arrows .arrow__prev { margin-right: 20px; }
+
+.timeline .disabled { opacity: .5; }
+
+.timeline .arrows img {
+  width: 45px;
+  height: 45px;
+}
+
+@media screen and (max-width: 599px) {
+
+.timeline ol,  .timeline ol li { width: auto; }
+
+.timeline ol {
+  padding: 0;
+  transform: none !important;
+}
+
+.timeline ol li {
+  display: block;
+  height: auto;
+  background: transparent;
+}
+
+.timeline ol li:first-child { margin-top: 25px; }
+
+.timeline ol li div {
+  width: 94%;
+  height: auto !important;
+  margin: 0 auto 25px;
+}
+
+.timeline ol li div { position: static; }
+
+.timeline ol li div::before {
+  left: 50%;
+  top: 100%;
+  transform: translateX(-50%);
+  border: none;
+  border-left: 1px solid white;
+  height: 25px;
+}
+
+.timeline ol li:last-child,  .timeline ol li:nth-last-child(2) div::before,  .timeline ol li:not(:last-child)::after,  .timeline .arrows { display: none; }}
+
 footer {
 	padding: 8rem 0;
 background: #1d20ac;
