@@ -51,7 +51,7 @@ body {
 	font-size: 1rem;
 	line-height: 1.75rem;
 	color: #101934;
-	font-weight: 300;
+	font-weight: normal;
 }
 
 .text-blue {
@@ -298,7 +298,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#204ac2', end
 .timeline ol li:last-child,  .timeline ol li:nth-last-child(2) div::before,  .timeline ol li:not(:last-child)::after,  .timeline .arrows { display: none; }}
 
 footer {
-	padding: 8rem 0;
+padding: 8rem 0;
 background: #1b14af;
 background: -moz-linear-gradient(left, #1b14af 0%, #18ddfd 100%);
 background: -webkit-linear-gradient(left, #1b14af 0%,#18ddfd 100%);
