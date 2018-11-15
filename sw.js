@@ -1,4 +1,4 @@
-var CACHE_NAME = 'spooky:0011';
+var CACHE_NAME = 'spooky:0013';
 var urlsToCache = [
   '/',
   '/work/',
@@ -39,7 +39,7 @@ self.addEventListener('fetch', function(event) {
 // Empty out any caches that don’t match the ones listed.
 self.addEventListener('activate', function(event) {
 
-  var cacheWhitelist = ['spooky:0011'];
+  var cacheWhitelist = ['spooky:0012'];
 
   event.waitUntil(
     caches.keys().then(function(cacheNames) {
