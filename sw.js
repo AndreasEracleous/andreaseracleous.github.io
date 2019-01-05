@@ -1,4 +1,4 @@
-var CACHE_NAME = 'spooky:0013';
+var CACHE_NAME = 'spooky:0015';
 var urlsToCache = [
   '/',
   '/work/',
