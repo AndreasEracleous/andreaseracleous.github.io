@@ -1,4 +1,5 @@
 $(document).ready(function(){
+
 	$('.multiple-items').slick({
 	  infinite: false,
 	  lazyLoad: 'ondemand',
@@ -19,13 +20,9 @@ $(document).ready(function(){
     }]
 	});
 
-$('#toggle').click(function (e) {
-        e.stopPropagation();
-    });
-    $('html').click(function (e) {
-        if (!$('.toggle').is($(e.target))) {
-            $('#toggle').prop("checked", false);
-        }
-    });
+  $('#notification-close').on("click", function(){
+      $(".notification-bar").slideUp();
+      $(this).hide();
+  });
 
 });

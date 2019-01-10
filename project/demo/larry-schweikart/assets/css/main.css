@@ -147,20 +147,6 @@ body {
 	background-color: #8a2220;
 	border-color: #8a2220;
 }
-.btn-notification-close {
-	position: absolute;
-    top: 0;
-    right: 0;	
-    display: block;
-    font-size: 2rem;
-    line-height: normal;
-    padding: .2rem .5rem;
-    width: 30px;
-}
-.notification-down-arrow {
-	width: 30px;
-	height: 30px;
-}
 .img-thumbnail {
     padding: .45rem;
     background-color: #c57750;
@@ -187,7 +173,6 @@ a:hover >.img-thumbnail {
 	position: relative;
 	background-color: #c6ab67;	
 	overflow: hidden;
-	transition: all .35s ease-in;
 }
 
 #header-nav {
@@ -218,34 +203,19 @@ a:hover >.img-thumbnail {
 	position: relative;
 }
 
-
-.toggle {
+#notification-close {
   display: block;
   position: absolute;
-  top: 15px;
-  right: 50px;
-  color: #fff;
+  top: 0;
+  right: 0;
+  margin: 0;
+  padding:5px;
   cursor: pointer;
-  padding: 5px;
   width: 25px;
-  height: 25;
-  z-index: 1;
-}
-#toggle { display: none; }
-
-#toggle:checked ~ .notifactions {
-  margin-top: -80px;
--webkit-transition: all .35s ease-in;
--moz-transition: all .35s ease-in;
--o-transition: all .35s ease-in;
--ms-transition: all .35s ease-in;
-transition: all .35s ease-in;
-
+  height: 25px;
+  z-index: 999;
 }
 
-#toggle:checked ~ .toggle {
-  margin-top: -80px;
-}
 .footer {
 	background-color: #396580;
 }
