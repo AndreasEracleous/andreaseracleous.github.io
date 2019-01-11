@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://andreaseracleous.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://andreaseracleous.com/" rel="alternate" type="text/html" /><updated>2019-01-05T15:59:33+02:00</updated><id>https://andreaseracleous.com/feed.xml</id><title type="html">Andreas Eracleous</title><subtitle>Andreas is a freelance Front-end Web Developer who is expert in converting PSD to Bootstrap website, HTML, CSS, JavaScript code and he is experienced with optimizing website load speed. Also, he is available for development jobs for helping you with your website and progressive web app.</subtitle><entry><title type="html">Best Way To Build A Website In Less Than 17 Minutes</title><link href="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/" rel="alternate" type="text/html" title="Best Way To Build A Website In Less Than 17 Minutes" /><published>2017-05-17T00:00:00+03:00</published><updated>2017-05-17T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes</id><content type="html" xml:base="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/">&lt;p&gt;&lt;img src=&quot;&quot; data-src=&quot;/assets/img/blog/2017/05/make-a-website.png&quot; alt=&quot;Build a website&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://andreaseracleous.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://andreaseracleous.com/" rel="alternate" type="text/html" /><updated>2019-01-11T22:02:28+02:00</updated><id>https://andreaseracleous.com/feed.xml</id><title type="html">Andreas Eracleous</title><subtitle>Andreas is a freelance Front-end Web Developer who is expert in converting PSD to Bootstrap website, HTML, CSS, JavaScript code and he is experienced with optimizing website load speed. Also, he is available for development jobs for helping you with your website and progressive web app.</subtitle><entry><title type="html">Best Way To Build A Website In Less Than 17 Minutes</title><link href="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/" rel="alternate" type="text/html" title="Best Way To Build A Website In Less Than 17 Minutes" /><published>2017-05-17T00:00:00+03:00</published><updated>2017-05-17T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes</id><content type="html" xml:base="https://andreaseracleous.com/blog/best-way-build-website-less-17-minutes/">&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/make-a-website.png&quot; alt=&quot;Build a website&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 
 &lt;p class=&quot;clearfix&quot;&gt;&lt;strong&gt;Hello there! I wrote this easy and quick guide for you, so that you can do it yourself website, without having any programming languages and coding knowledge or having to be an expert!&lt;/strong&gt;&lt;/p&gt;
 
@@ -28,7 +28,7 @@
  	&lt;li&gt;&lt;strong&gt;&lt;em&gt;Set Up Your Website&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Let’s get started:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;First of all, a good website needs to have three things:&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;First of all, a good website needs to have three things:&lt;/em&gt;
 &lt;ul&gt;
  	&lt;li&gt;&lt;em&gt;Website Design&lt;/em&gt;&lt;/li&gt;
  	&lt;li&gt;&lt;em&gt;Domain Name&lt;/em&gt;&lt;/li&gt;
@@ -38,7 +38,7 @@
 
 &lt;h3 class=&quot;mt-5&quot;&gt;STEP #1: &lt;span class=&quot;text-underline&quot;&gt;Choose Your Website Design&lt;/span&gt;&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;&quot; data-src=&quot;/assets/img/blog/2017/05/choose-your-website-design.png&quot; alt=&quot;choose your website design&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/choose-your-website-design.png&quot; alt=&quot;choose your website design&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 
 &lt;p&gt;Firstly you must think of what’s the main purpose of your website is, and what content you want your visitors to see and which categories will you have on your website. I believe these are the three most important things you must consider for your website before choosing your website’s design.&lt;/p&gt;
 
@@ -63,18 +63,18 @@
 
 &lt;p&gt;Personally I am using &lt;a href=&quot;https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226?ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;&lt;strong&gt;&lt;span class=&quot;text-underline&quot;&gt;Avada theme&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt; for my WordPress websites.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226?ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;
-&lt;img src=&quot;&quot; data-src=&quot;/assets/img/blog/2016/11/avada-theme.png&quot; alt=&quot;Build a website with Avada theme&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226?ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;
+&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2016/11/avada-theme.png&quot; alt=&quot;Build a website with Avada theme&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
+&lt;/a&gt;
 
 &lt;p&gt;Once you find you website design that fit in your needs go to the next step. Click below to see some examples website design templates.&lt;/p&gt;
 
-&lt;p class=&quot;text-center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg&quot; href=&quot;https://themeforest.net/popular_item/by_category?category=site-templates&amp;amp;ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Templates&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;text-center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg&quot; href=&quot;https://themeforest.net/popular_item/by_category?category=site-templates&amp;ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Templates&lt;/a&gt;&lt;/p&gt;
 
-&lt;p class=&quot;text-center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg&quot; href=&quot;https://themeforest.net/popular_item/by_category?category=wordpress&amp;amp;ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;WordPress Themes&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;text-center&quot;&gt;&lt;a class=&quot;btn btn-success btn-lg&quot; href=&quot;https://themeforest.net/popular_item/by_category?category=wordpress&amp;ref=AndreasEracleous&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;WordPress Themes&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 class=&quot;mt-5&quot;&gt;STEP #2: &lt;span class=&quot;text-underline&quot;&gt;Find a Domain Name&lt;/span&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;&quot; data-src=&quot;/assets/img/blog/2017/05/find-a-domain-name.png&quot; alt=&quot;Find a Domain Name&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/find-a-domain-name.png&quot; alt=&quot;Find a Domain Name&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 &lt;p&gt;A&lt;strong&gt; Domain name&lt;/strong&gt; is used in URLs to identify particular web pages.&lt;/p&gt;
 
 &lt;p&gt;A domain name is linked to your website where people can find you and can contact you. For example: in the website address (URL) &lt;a href=&quot;https://andreaseracleous.com/about&quot;&gt;https://andreaseracleous.com/about&lt;/a&gt;, the domain name is &lt;em&gt;&lt;strong&gt;andreaseracleous.com&lt;/strong&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -115,7 +115,7 @@
 
 &lt;h3 class=&quot;mt-5&quot;&gt;STEP #3: Buy a Web hosting package&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;&quot; data-src=&quot;/assets/img/blog/2017/05/buy-a-web-hosting-package.png&quot; alt=&quot;Buy a Web hosting package&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;&quot; data-src=&quot;{{ site.baseurl }}/assets/img/blog/2017/05/buy-a-web-hosting-package.png&quot; alt=&quot;Buy a Web hosting package&quot; class=&quot;img-fluid d-block mx-auto my-5&quot; /&gt;
 
 &lt;p&gt;Every website needs a &lt;span class=&quot;text-underline&quot;&gt;web hosting&lt;/span&gt; to store files. Basically &lt;strong&gt;&lt;em&gt;web hosting &lt;/em&gt;&lt;/strong&gt;is a computer where it provides you a piece of storage to store your web files and makes your website to be visible on the internet.&lt;/p&gt;
 
@@ -135,7 +135,7 @@
 
 &lt;p&gt;Not only that. Your website will load faster with InMotionHosting. They use the latest technologies and security to provide you a faster hosting server from any other competitive hosting company out there!&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Which one the 3 packages should I chose?&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;Which one the 3 packages should I chose?&lt;/strong&gt;
 
 &lt;p&gt;A good hosting package that I recommend you to get is the &lt;em&gt;Shared Business Hosting (LAUNCH).&lt;/em&gt; It costs only $5.99/mo and they will give you your chosen domain name for FREE!!&lt;/p&gt;
 
@@ -161,29 +161,30 @@
  	&lt;li&gt;Go to search box and type “Softaculous” or click on “WordPress” logo.&lt;/li&gt;
  	&lt;li&gt;Click on the “Install Now” button.&lt;/li&gt;
  	&lt;li&gt;Fill in all necessary WordPress set up information.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="template" /><category term="responsive" /><category term="build-website" /><summary type="html">Hello there! I wrote this easy and quick guide for you, so that you can do it yourself website, without having any programming languages and coding knowledge or having to be an expert! As a web developer, I can say that in general building a well designed website from scratch takes a lot of time. It requires design skills but coding skills as well. A website is built with technologies such HTML, CSS and JavaScript or other web programming languages.</summary></entry><entry><title type="html">Make Bootstrap Buttons same height</title><link href="https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height/" rel="alternate" type="text/html" title="Make Bootstrap Buttons same height" /><published>2016-09-25T00:00:00+03:00</published><updated>2016-09-25T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height</id><content type="html" xml:base="https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height/">&lt;p&gt;I have wrote a JavaScript function that read all the buttons height through a page and make them to have same height size using jQuery.
-&lt;!--more--&gt;&lt;/p&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="template" /><category term="responsive" /><category term="build-website" /><summary type="html">Hello there! I wrote this easy and quick guide for you, so that you can do it yourself website, without having any programming languages and coding knowledge or having to be an expert! As a web developer, I can say that in general building a well designed website from scratch takes a lot of time. It requires design skills but coding skills as well. A website is built with technologies such HTML, CSS and JavaScript or other web programming languages.</summary></entry><entry><title type="html">Make Bootstrap Buttons same height</title><link href="https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height/" rel="alternate" type="text/html" title="Make Bootstrap Buttons same height" /><published>2016-09-25T00:00:00+03:00</published><updated>2016-09-25T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height</id><content type="html" xml:base="https://andreaseracleous.com/blog/make-bootstrap-buttons-same-height/">I have wrote a JavaScript function that read all the buttons height through a page and make them to have same height size using jQuery.
+&lt;!--more--&gt;
 &lt;h2&gt;How to equal height Javascript function works?&lt;/h2&gt;
 &lt;p&gt;The Javascript function finds all buttons that are inside of this HTML &quot;&lt;strong&gt;data-equal-btns&lt;/strong&gt;&quot; attribute name and then stores all the element button in array.&lt;/p&gt;
-&lt;p&gt;For example:&lt;/p&gt;
+For example:
 &lt;div data-equal-btns=&quot;&quot;&gt;&lt;!-- Buttons here --&gt;&lt;/div&gt;
-&lt;p&gt;Next Javascript retrieves DOM buttons object from array list and go through until find the maximum height number of a button. Based of maximum button height, I calculate the &lt;strong&gt;top&lt;/strong&gt; and &lt;strong&gt;bottom padding&lt;/strong&gt; for each button is needed, in order to be equal with the biggest button.&lt;/p&gt;
+Next Javascript retrieves DOM buttons object from array list and go through until find the maximum height number of a button. Based of maximum button height, I calculate the &lt;strong&gt;top&lt;/strong&gt; and &lt;strong&gt;bottom padding&lt;/strong&gt; for each button is needed, in order to be equal with the biggest button.
 
-&lt;p&gt;&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Button Equal Height Formula:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Button Equal Height Formula:&lt;/span&gt;&lt;/strong&gt;
 
-&lt;p&gt;&lt;em&gt;Extra Padding = (Max Height Button - Current Height Button) / 2&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Extra Padding = (Max Height Button - Current Height Button) / 2&lt;/em&gt;
 
-&lt;p&gt;&lt;em&gt;Total Padding Top Button = Current Padding Top Button + Extra Padding&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Total Padding Top Button = Current Padding Top Button + Extra Padding&lt;/em&gt;
 
-&lt;p&gt;&lt;em&gt;Total Padding Bottom Button = Current Padding Top Button + Extra Padding&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;Total Padding Bottom Button = Current Padding Top Button + Extra Padding&lt;/em&gt;
 
-&lt;p&gt;Example:&lt;/p&gt;
+Example:
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;MeewxY&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Bootstrap Equal Height Buttons&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/MeewxY/&quot;&gt;Bootstrap Equal Height Buttons&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="css" /><category term="js" /><category term="buttons" /><summary type="html">I have wrote a JavaScript function that read all the buttons height through a page and make them to have same height size using jQuery.</summary></entry><entry><title type="html">Bootstrap Collapse Panel Examples</title><link href="https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples/" rel="alternate" type="text/html" title="Bootstrap Collapse Panel Examples" /><published>2016-06-29T00:00:00+03:00</published><updated>2016-06-29T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples</id><content type="html" xml:base="https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples/">&lt;p&gt;In this post I will show you how to transform a &lt;strong&gt;Bootstrap Collapse Panel&lt;/strong&gt; to &lt;em&gt;Accordion Menu&lt;/em&gt;, implement a &lt;em&gt;Bootstrap Collapse Panel with icon&lt;/em&gt; and also on how to create a &lt;em&gt;Bootstrap Accordion Expand/Collapse All&lt;/em&gt; (open / close all) to control all the collapse panels.
-&lt;!--more--&gt;&lt;/p&gt;
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="css" /><category term="js" /><category term="buttons" /><summary type="html">I have wrote a JavaScript function that read all the buttons height through a page and make them to have same height size using jQuery.</summary></entry><entry><title type="html">Bootstrap Collapse Panel Examples</title><link href="https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples/" rel="alternate" type="text/html" title="Bootstrap Collapse Panel Examples" /><published>2016-06-29T00:00:00+03:00</published><updated>2016-06-29T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples</id><content type="html" xml:base="https://andreaseracleous.com/blog/bootstrap-collapse-panel-examples/">In this post I will show you how to transform a &lt;strong&gt;Bootstrap Collapse Panel&lt;/strong&gt; to &lt;em&gt;Accordion Menu&lt;/em&gt;, implement a &lt;em&gt;Bootstrap Collapse Panel with icon&lt;/em&gt; and also on how to create a &lt;em&gt;Bootstrap Accordion Expand/Collapse All&lt;/em&gt; (open / close all) to control all the collapse panels.
+&lt;!--more--&gt;
 &lt;h2&gt;Creating Bootstrap Accordion&lt;/h2&gt;
-&lt;p&gt;First of all &lt;strong&gt;&lt;em&gt;Bootstrap JS Collapse&lt;/em&gt;&lt;/strong&gt; plugin allows you to manage a large content on your pages by putting into collapse panel with toggle between hiding and showing content.&lt;/p&gt;
+First of all &lt;strong&gt;&lt;em&gt;Bootstrap JS Collapse&lt;/em&gt;&lt;/strong&gt; plugin allows you to manage a large content on your pages by putting into collapse panel with toggle between hiding and showing content.
+
 
 &lt;h3 class=&quot;mt-5&quot;&gt;Bootstrap Collapse Panel With Icon&lt;/h3&gt;
 
@@ -196,14 +197,13 @@
 &lt;h3 class=&quot;mt-5&quot;&gt;Bootstrap Accordion Expand/Collapse All&lt;/h3&gt;
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;zBZZvq&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Bootstrap Accordion example with expand/collapse all&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/zBZZvq/&quot;&gt;Bootstrap Accordion example with expand/collapse all&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="panel" /><category term="bootstrap" /><summary type="html">In this post I will show you how to transform a Bootstrap Collapse Panel to Accordion Menu, implement a Bootstrap Collapse Panel with icon and also on how to create a Bootstrap Accordion Expand/Collapse All (open / close all) to control all the collapse panels.</summary></entry><entry><title type="html">Bootstrap Menu Examples</title><link href="https://andreaseracleous.com/blog/bootstrap-menu-examples/" rel="alternate" type="text/html" title="Bootstrap Menu Examples" /><published>2016-05-22T00:00:00+03:00</published><updated>2016-05-22T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/bootstrap-menu-examples</id><content type="html" xml:base="https://andreaseracleous.com/blog/bootstrap-menu-examples/">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Bootstrap Menu&lt;/strong&gt;&lt;/em&gt; component is a responsive navigation bar for using on a website or a web app. By default, The &lt;strong&gt;Bootstrap responsive menu bar&lt;/strong&gt; collapses (vertically stacks) in small devices &lt;em&gt;phones display&lt;/em&gt; lower than &lt;strong&gt;768 pixels&lt;/strong&gt;.&lt;/p&gt;
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="panel" /><category term="bootstrap" /><summary type="html">In this post I will show you how to transform a Bootstrap Collapse Panel to Accordion Menu, implement a Bootstrap Collapse Panel with icon and also on how to create a Bootstrap Accordion Expand/Collapse All (open / close all) to control all the collapse panels.</summary></entry><entry><title type="html">Bootstrap Menu Examples</title><link href="https://andreaseracleous.com/blog/bootstrap-menu-examples/" rel="alternate" type="text/html" title="Bootstrap Menu Examples" /><published>2016-05-22T00:00:00+03:00</published><updated>2016-05-22T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/bootstrap-menu-examples</id><content type="html" xml:base="https://andreaseracleous.com/blog/bootstrap-menu-examples/">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Bootstrap Menu&lt;/strong&gt;&lt;/em&gt; component is a responsive navigation bar for using on a website or a web app. By default, The &lt;strong&gt;Bootstrap responsive menu bar&lt;/strong&gt; collapses (vertically stacks) in small devices &lt;em&gt;phones display&lt;/em&gt; lower than &lt;strong&gt;768 pixels&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;In this example, I have been experimented with the Bootstrap menu (Navbar component)  and I have made some modification on it through the CSS stylesheet.&lt;/p&gt;
 &lt;!--more--&gt;
 &lt;p&gt;By default, if you click on the &lt;em&gt;dropdown menu&lt;/em&gt; of the Navigation bar, you will notice, it appears a submenu with one column.  So I have changed that column to be takes more than one column and also get &lt;span style=&quot;line-height: 1.5;&quot;&gt;full width 100%.&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;I have used &lt;strong&gt;flex CSS property&lt;/strong&gt; to make all their submenus to have the same length, regardless of its content. Therefore I have changed the bootstrap navigation breakpoint to collapse in small devices &lt;em&gt;tablets display&lt;/em&gt; between &lt;strong&gt;768 pixels&lt;/strong&gt; and &lt;strong&gt;991 pixels&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You can find the CSS code below and see how you can change the &lt;em&gt;Bootstrap NavBar Breakpoint&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I have used &lt;strong&gt;flex CSS property&lt;/strong&gt; to make all their submenus to have the same length, regardless of its content. Therefore I have changed the bootstrap navigation breakpoint to collapse in small devices &lt;em&gt;tablets display&lt;/em&gt; between &lt;strong&gt;768 pixels&lt;/strong&gt; and &lt;strong&gt;991 pixels&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;You can find the CSS code below and see how you can change the &lt;em&gt;Bootstrap NavBar Breakpoint&lt;/em&gt;.&lt;/p&gt;
 
 &lt;pre class=&quot;lang:default decode:true&quot;&gt;
 &lt;code class=&quot;language-css&quot;&gt;
@@ -248,16 +248,16 @@
 &lt;/pre&gt;
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;pyXypB&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Bootstrap Menu Example - 1&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/pyXypB/&quot;&gt;Bootstrap Menu Example - 1&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="navbar" /><category term="bootstrap" /><category term="menu" /><summary type="html">Bootstrap Menu component is a responsive navigation bar for using on a website or a web app. By default, The Bootstrap responsive menu bar collapses (vertically stacks) in small devices phones display lower than 768 pixels. In this example, I have been experimented with the Bootstrap menu (Navbar component)  and I have made some modification on it through the CSS stylesheet.</summary></entry><entry><title type="html">Bootstrap Responsive Table with CSS3</title><link href="https://andreaseracleous.com/blog/bootstrap-responsive-table-with-css3/" rel="alternate" type="text/html" title="Bootstrap Responsive Table with CSS3" /><published>2016-04-21T00:00:00+03:00</published><updated>2016-04-21T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/bootstrap-responsive-table-with-css3</id><content type="html" xml:base="https://andreaseracleous.com/blog/bootstrap-responsive-table-with-css3/">&lt;p&gt;I spent some time playing with the &lt;em&gt;&lt;strong&gt;Bootstrap Responsive Table&lt;/strong&gt;&lt;/em&gt;. I was very curious about on how can I create a responsive table with just CSS code without any interaction of Javascript code. I found that nearly impossible to make it happens until I learned about the attribute &lt;strong&gt;attr()&lt;/strong&gt; function on CSS.
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="navbar" /><category term="bootstrap" /><category term="menu" /><summary type="html">Bootstrap Menu component is a responsive navigation bar for using on a website or a web app. By default, The Bootstrap responsive menu bar collapses (vertically stacks) in small devices phones display lower than 768 pixels. In this example, I have been experimented with the Bootstrap menu (Navbar component)  and I have made some modification on it through the CSS stylesheet.</summary></entry><entry><title type="html">Bootstrap Responsive Table with CSS3</title><link href="https://andreaseracleous.com/blog/bootstrap-responsive-table-with-css3/" rel="alternate" type="text/html" title="Bootstrap Responsive Table with CSS3" /><published>2016-04-21T00:00:00+03:00</published><updated>2016-04-21T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/bootstrap-responsive-table-with-css3</id><content type="html" xml:base="https://andreaseracleous.com/blog/bootstrap-responsive-table-with-css3/">I spent some time playing with the &lt;em&gt;&lt;strong&gt;Bootstrap Responsive Table&lt;/strong&gt;&lt;/em&gt;. I was very curious about on how can I create a responsive table with just CSS code without any interaction of Javascript code. I found that nearly impossible to make it happens until I learned about the attribute &lt;strong&gt;attr()&lt;/strong&gt; function on CSS.
 &lt;!--more--&gt;
-I am using Bootstrap Framework a lot on my web project but I can say that the &lt;em&gt;Bootstrap responsive table&lt;/em&gt; component is not so good for using it on mobile and tablet device even on a responsive website.&lt;/p&gt;
+I am using Bootstrap Framework a lot on my web project but I can say that the &lt;em&gt;Bootstrap responsive table&lt;/em&gt; component is not so good for using it on mobile and tablet device even on a responsive website.
 &lt;h2&gt;Using Bootstrap Responsive Table&lt;/h2&gt;
-&lt;p&gt;You can create a responsive tables with Bootstrap by wrapping any &lt;em&gt;
-&lt;/em&gt;&lt;/p&gt;
+You can create a responsive tables with Bootstrap by wrapping any &lt;em&gt;
+&lt;/em&gt;
 
-&lt;p&gt; &lt;/p&gt;
+&amp;nbsp;
 
-&lt;p&gt;in &lt;em&gt;.table-responsive &lt;/em&gt;like the below example:&lt;/p&gt;
+in &lt;em&gt;.table-responsive &lt;/em&gt;like the below example:
 &lt;pre&gt;
 &lt;code class=&quot;language-markup&quot;&gt;
 
@@ -267,15 +267,15 @@ I am using Bootstrap Framework a lot on my web project but I can say that the 
 
 &lt;/code&gt;
 &lt;/pre&gt;
-&lt;p&gt;On small screen under 768px you will notice that appearing a scroll horizontally and whilst on larger screen than 768px wide, you will not see any difference in these tables.&lt;/p&gt;
+On small screen under 768px you will notice that appearing a scroll horizontally and whilst on larger screen than 768px wide, you will not see any difference in these tables.
 
-&lt;p&gt;The result has as following:&lt;/p&gt;
+The result has as following:
 
 &lt;h2&gt;Reads Value With attr() CSS Property&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;attr() CSS property&lt;/strong&gt; allows us to retrieve the value of an attribute of the selected element and use it in the style sheet.&lt;/p&gt;
+&lt;strong&gt;attr() CSS property&lt;/strong&gt; allows us to retrieve the value of an attribute of the selected element and use it in the style sheet.
 
-&lt;p&gt;I set an attribute on the &lt;em&gt;&lt;strong&gt;td&lt;/strong&gt;&lt;/em&gt; element of the &lt;em&gt;&lt;strong&gt;table&lt;/strong&gt;&lt;/em&gt; and then using the content property and attribute &lt;em&gt;&lt;strong&gt;attr()&lt;/strong&gt;&lt;/em&gt; function for reading the content of the element.&lt;/p&gt;
+I set an attribute on the &lt;em&gt;&lt;strong&gt;td&lt;/strong&gt;&lt;/em&gt; element of the &lt;em&gt;&lt;strong&gt;table&lt;/strong&gt;&lt;/em&gt; and then using the content property and attribute &lt;em&gt;&lt;strong&gt;attr()&lt;/strong&gt;&lt;/em&gt; function for reading the content of the element.
 
 &lt;pre lang=&quot;lang&quot;&gt;
 &lt;code class=&quot;language-css&quot;&gt;
@@ -290,21 +290,22 @@ I am using Bootstrap Framework a lot on my web project but I can say that the 
 &lt;/code&gt;
 &lt;/pre&gt;
 
-&lt;p&gt;Below you can see the Unresponsive Table, Responsive Table with Bootstrap and Responsive Table with Custom Style code:&lt;/p&gt;
+
+Below you can see the Unresponsive Table, Responsive Table with Bootstrap and Responsive Table with Custom Style code:
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;wGjpZX&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Bootstrap Responsive Table&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/wGjpZX/&quot;&gt;Bootstrap Responsive Table&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="html" /><category term="css" /><category term="table" /><category term="responsive-table" /><summary type="html">I spent some time playing with the Bootstrap Responsive Table. I was very curious about on how can I create a responsive table with just CSS code without any interaction of Javascript code. I found that nearly impossible to make it happens until I learned about the attribute attr() function on CSS.</summary></entry><entry><title type="html">Notification Popup with CSS3 and HTML5</title><link href="https://andreaseracleous.com/blog/notification-popup-css3-html5/" rel="alternate" type="text/html" title="Notification Popup with CSS3 and HTML5" /><published>2016-04-20T00:00:00+03:00</published><updated>2016-04-20T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/notification-popup-css3-html5</id><content type="html" xml:base="https://andreaseracleous.com/blog/notification-popup-css3-html5/">&lt;p&gt;I created a notification pop up with just CSS3 and HTML5 code.&lt;/p&gt;
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="html" /><category term="css" /><category term="table" /><category term="responsive-table" /><summary type="html">I spent some time playing with the Bootstrap Responsive Table. I was very curious about on how can I create a responsive table with just CSS code without any interaction of Javascript code. I found that nearly impossible to make it happens until I learned about the attribute attr() function on CSS.</summary></entry><entry><title type="html">Notification Popup with CSS3 and HTML5</title><link href="https://andreaseracleous.com/blog/notification-popup-css3-html5/" rel="alternate" type="text/html" title="Notification Popup with CSS3 and HTML5" /><published>2016-04-20T00:00:00+03:00</published><updated>2016-04-20T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/notification-popup-css3-html5</id><content type="html" xml:base="https://andreaseracleous.com/blog/notification-popup-css3-html5/">I created a notification pop up with just CSS3 and HTML5 code.
 
-&lt;p&gt;If the mouse over on the “bell” icon you will notice, a show list appears with the notifications.
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;oxdoGm&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Notification Popup CSS&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/oxdoGm/&quot;&gt;Notification Popup CSS&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="popup" /><category term="css" /><category term="html" /><summary type="html">I created a notification pop up with just CSS3 and HTML5 code. If the mouse over on the “bell” icon you will notice, a show list appears with the notifications.</summary></entry><entry><title type="html">Creating Checkout Progress Bar With HTML5, CSS3 and JQuery</title><link href="https://andreaseracleous.com/blog/creating-checkout-progress-bar-html5-css3-jquery/" rel="alternate" type="text/html" title="Creating Checkout Progress Bar With HTML5, CSS3 and JQuery" /><published>2016-04-20T00:00:00+03:00</published><updated>2016-04-20T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/creating-checkout-progress-bar-html5-css3-jquery</id><content type="html" xml:base="https://andreaseracleous.com/blog/creating-checkout-progress-bar-html5-css3-jquery/">&lt;p&gt;In this post, I made a &lt;strong&gt;Checkout Progress Bar&lt;/strong&gt; without images just few lines of code of &lt;strong&gt;HTML5, CSS3&lt;/strong&gt; and &lt;strong&gt;jQuery&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Progress Bar&lt;/strong&gt; is helpful on a website when you want the user to follow a specific order of steps until to complete all of them. The main goal of a &lt;strong&gt;Progress Bar&lt;/strong&gt; is to show you where you are in the entire process and what steps you’ve already completed.
+If the mouse over on the &quot;bell&quot; icon you will notice, a show list appears with the notifications.
 &lt;!--more--&gt;
-Usually a &lt;strong&gt;Checkout Progress Bar&lt;/strong&gt;  you can see it when you are going to buy some products on a &lt;em&gt;eCommerce store&lt;/em&gt; like Amazon, eBay and so on.&lt;/p&gt;
+&lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;oxdoGm&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Notification Popup CSS&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/oxdoGm/&quot;&gt;Notification Popup CSS&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="popup" /><category term="css" /><category term="html" /><summary type="html">I created a notification pop up with just CSS3 and HTML5 code. If the mouse over on the “bell” icon you will notice, a show list appears with the notifications.</summary></entry><entry><title type="html">Creating Checkout Progress Bar With HTML5, CSS3 and JQuery</title><link href="https://andreaseracleous.com/blog/creating-checkout-progress-bar-html5-css3-jquery/" rel="alternate" type="text/html" title="Creating Checkout Progress Bar With HTML5, CSS3 and JQuery" /><published>2016-04-20T00:00:00+03:00</published><updated>2016-04-20T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/creating-checkout-progress-bar-html5-css3-jquery</id><content type="html" xml:base="https://andreaseracleous.com/blog/creating-checkout-progress-bar-html5-css3-jquery/">In this post, I made a &lt;strong&gt;Checkout Progress Bar&lt;/strong&gt; without images just few lines of code of &lt;strong&gt;HTML5, CSS3&lt;/strong&gt; and &lt;strong&gt;jQuery&lt;/strong&gt;.
 
-&lt;p&gt;Few common steps are following:&lt;/p&gt;
+&lt;strong&gt;Progress Bar&lt;/strong&gt; is helpful on a website when you want the user to follow a specific order of steps until to complete all of them. The main goal of a &lt;strong&gt;Progress Bar&lt;/strong&gt; is to show you where you are in the entire process and what steps you've already completed.
+&lt;!--more--&gt;
+Usually a &lt;strong&gt;Checkout Progress Bar&lt;/strong&gt;  you can see it when you are going to buy some products on a &lt;em&gt;eCommerce store&lt;/em&gt; like Amazon, eBay and so on.
+
+Few common steps are following:
 &lt;div class=&quot;fusion-table table-1&quot;&gt;
 &lt;table width=&quot;100%&quot;&gt;
 &lt;tbody&gt;
@@ -332,11 +333,12 @@ Usually a &lt;strong&gt;Checkout Progress Bar&lt;/strong&gt;  you can see it�
 &lt;/table&gt;
 &lt;/div&gt;
 
+
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;wGXQBb&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Checkout Progress Bar&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/wGXQBb/&quot;&gt;Checkout Progress Bar&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="css" /><category term="checkout-progress-bar" /><summary type="html">In this post, I made a Checkout Progress Bar without images just few lines of code of HTML5, CSS3 and jQuery. Progress Bar is helpful on a website when you want the user to follow a specific order of steps until to complete all of them. The main goal of a Progress Bar is to show you where you are in the entire process and what steps you’ve already completed.</summary></entry><entry><title type="html">Align text vertically center in div with CSS</title><link href="https://andreaseracleous.com/blog/align-text-vertically-center-div-css/" rel="alternate" type="text/html" title="Align text vertically center in div with CSS" /><published>2016-04-20T00:00:00+03:00</published><updated>2016-04-20T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/align-text-vertically-center-div-css</id><content type="html" xml:base="https://andreaseracleous.com/blog/align-text-vertically-center-div-css/">&lt;p&gt;In this example I will show you on how you can align text vertically in the middle with div tag. There are few ways to align a text vertically in the center using CSS code.
-&lt;!--more--&gt;&lt;/p&gt;
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="css" /><category term="checkout-progress-bar" /><summary type="html">In this post, I made a Checkout Progress Bar without images just few lines of code of HTML5, CSS3 and jQuery. Progress Bar is helpful on a website when you want the user to follow a specific order of steps until to complete all of them. The main goal of a Progress Bar is to show you where you are in the entire process and what steps you’ve already completed.</summary></entry><entry><title type="html">Align text vertically center in div with CSS</title><link href="https://andreaseracleous.com/blog/align-text-vertically-center-div-css/" rel="alternate" type="text/html" title="Align text vertically center in div with CSS" /><published>2016-04-20T00:00:00+03:00</published><updated>2016-04-20T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/align-text-vertically-center-div-css</id><content type="html" xml:base="https://andreaseracleous.com/blog/align-text-vertically-center-div-css/">In this example I will show you on how you can align text vertically in the middle with div tag. There are few ways to align a text vertically in the center using CSS code.
+&lt;!--more--&gt;
 &lt;h2&gt;Ways to align text vertically center&lt;/h2&gt;
-&lt;p&gt;Below are the properties that can use to vertical align a text in the middle of a div tag.&lt;/p&gt;
+Below are the properties that can use to vertical align a text in the middle of a div tag.
 &lt;ul&gt;
  	&lt;li&gt;line-height&lt;/li&gt;
  	&lt;li&gt;transform&lt;/li&gt;
@@ -344,11 +346,11 @@ Usually a &lt;strong&gt;Checkout Progress Bar&lt;/strong&gt;  you can see it�
 &lt;/ul&gt;
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;VYBLrN&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Align text vertically center&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/VYBLrN/&quot;&gt;Align text vertically center&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="css" /><summary type="html">In this example I will show you on how you can align text vertically in the middle with div tag. There are few ways to align a text vertically in the center using CSS code.</summary></entry><entry><title type="html">Create your first web page dynamic with AngularJS</title><link href="https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs/" rel="alternate" type="text/html" title="Create your first web page dynamic with AngularJS" /><published>2016-01-06T00:00:00+02:00</published><updated>2016-01-06T00:00:00+02:00</updated><id>https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs</id><content type="html" xml:base="https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs/">&lt;p&gt;First of all you have to go at &lt;a href=&quot;angularjs.org&quot;&gt;angularjs.org&lt;/a&gt; website and click on the download button for downloading the AngularJS javascript file or otherwise copy the link &lt;em&gt;content distribution network&lt;/em&gt; (&lt;em&gt;CDN&lt;/em&gt;).&lt;/p&gt;
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="css" /><summary type="html">In this example I will show you on how you can align text vertically in the middle with div tag. There are few ways to align a text vertically in the center using CSS code.</summary></entry><entry><title type="html">Create your first web page dynamic with AngularJS</title><link href="https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs/" rel="alternate" type="text/html" title="Create your first web page dynamic with AngularJS" /><published>2016-01-06T00:00:00+02:00</published><updated>2016-01-06T00:00:00+02:00</updated><id>https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs</id><content type="html" xml:base="https://andreaseracleous.com/blog/create-first-web-page-dynamic-angularjs/">First of all you have to go at &lt;a href=&quot;angularjs.org&quot;&gt;angularjs.org&lt;/a&gt; website and click on the download button for downloading the AngularJS javascript file or otherwise copy the link &lt;em&gt;content distribution network&lt;/em&gt; (&lt;em&gt;CDN&lt;/em&gt;).
 
 &lt;!--more--&gt;
 
-&lt;p&gt;Then embed it into your HTML file like code below:&lt;/p&gt;
+Then embed it into your HTML file like code below:
 &lt;pre&gt;
 &lt;code class=&quot;language-markup&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;
 &amp;lt;html ng-app&amp;gt;
@@ -360,15 +362,15 @@ Usually a &lt;strong&gt;Checkout Progress Bar&lt;/strong&gt;  you can see it�
 
 &amp;lt;body&amp;gt;
   &amp;lt;input type=&quot;text&quot; ng-model=&quot;name&quot; placeholder=&quot;Please type your name&quot;&amp;gt;
-  &amp;lt;h3&amp;gt;&amp;lt;/h3&amp;gt;
+  &amp;lt;h3&amp;gt;{{name}}&amp;lt;/h3&amp;gt;
 &amp;lt;/body&amp;gt;
 
 &amp;lt;/html&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Output:&lt;/p&gt;
+Output:
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;VYmOVP&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;First page with AngularJS&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/VYmOVP/&quot;&gt;First page with AngularJS&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="js" /><category term="angularjs" /><summary type="html">First of all you have to go at angularjs.org website and click on the download button for downloading the AngularJS javascript file or otherwise copy the link content distribution network (CDN).</summary></entry><entry><title type="html">Beautiful Colors CSS3 Buttons</title><link href="https://andreaseracleous.com/blog/beautiful-colors-css3-buttons/" rel="alternate" type="text/html" title="Beautiful Colors CSS3 Buttons" /><published>2015-10-24T00:00:00+03:00</published><updated>2015-10-24T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/beautiful-colors-css3-buttons</id><content type="html" xml:base="https://andreaseracleous.com/blog/beautiful-colors-css3-buttons/">&lt;p&gt;I created some buttons in pure CSS3 in various colours. I selected these beautiful colors from &lt;a href=&quot;https://www.google.com/design/spec/style/color.html&quot; target=&quot;_blank&quot;&gt;Material Design&lt;/a&gt;.&lt;/p&gt;
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="js" /><category term="angularjs" /><summary type="html">First of all you have to go at angularjs.org website and click on the download button for downloading the AngularJS javascript file or otherwise copy the link content distribution network (CDN).</summary></entry><entry><title type="html">Beautiful Colors CSS3 Buttons</title><link href="https://andreaseracleous.com/blog/beautiful-colors-css3-buttons/" rel="alternate" type="text/html" title="Beautiful Colors CSS3 Buttons" /><published>2015-10-24T00:00:00+03:00</published><updated>2015-10-24T00:00:00+03:00</updated><id>https://andreaseracleous.com/blog/beautiful-colors-css3-buttons</id><content type="html" xml:base="https://andreaseracleous.com/blog/beautiful-colors-css3-buttons/">I created some buttons in pure CSS3 in various colours. I selected these beautiful colors from &lt;a href=&quot;https://www.google.com/design/spec/style/color.html&quot; target=&quot;_blank&quot;&gt;Material Design&lt;/a&gt;.
 
-&lt;p&gt;You can find the CSS3 Buttons HTML/CSS code below:&lt;/p&gt;
+You can find the CSS3 Buttons HTML/CSS code below:
 
 &lt;p data-height=&quot;300&quot; data-theme-id=&quot;9796&quot; data-slug-hash=&quot;XmZVLZ&quot; data-default-tab=&quot;result&quot; data-user=&quot;Sp00ky&quot; data-pen-title=&quot;Material Design Buttons Colors&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;https://codepen.io/Sp00ky/pen/XmZVLZ/&quot;&gt;Material Design Buttons Colors&lt;/a&gt; by Andreas Eracleous (&lt;a href=&quot;https://codepen.io/Sp00ky&quot;&gt;@Sp00ky&lt;/a&gt;) on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="css" /><category term="buttons" /><summary type="html">I created some buttons in pure CSS3 in various colours. I selected these beautiful colors from Material Design. You can find the CSS3 Buttons HTML/CSS code below: See the Pen Material Design Buttons Colors by Andreas Eracleous (@Sp00ky) on CodePen.</summary></entry></feed>
+&lt;script async src=&quot;https://static.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><category term="css" /><category term="buttons" /><summary type="html">I created some buttons in pure CSS3 in various colours. I selected these beautiful colors from Material Design. You can find the CSS3 Buttons HTML/CSS code below: See the Pen Material Design Buttons Colors by Andreas Eracleous (@Sp00ky) on CodePen.</summary></entry></feed>
