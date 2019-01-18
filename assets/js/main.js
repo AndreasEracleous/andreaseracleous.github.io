@@ -49,6 +49,7 @@
     }).catch(function () {
         sessionStorage.fontsLoaded = false;
     });
+    
     if (sessionStorage.fontsLoaded) {
       var html = document.documentElement;
       html.classList.add('fonts-loaded');
@@ -58,7 +59,4 @@
 
     font2.load().then(function () {
       console.log('Geomanist is available');
-      document.documentElement.className += " fonts-loaded";
     })
-
-
