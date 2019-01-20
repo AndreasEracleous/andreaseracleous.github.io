@@ -14,7 +14,8 @@
     scrollTo(element, to, duration - 10);
     }, 10);
     }
-
+    
+/*
         // AsyncImage
         var AsyncImage = function(currentImg) {
         this.preLoadImage = new Image();
@@ -39,6 +40,7 @@
         for (var i=0; i<imgLength; i++) {
             new AsyncImage(document.images[i]).startDownloading();
         }
+*/
 
     var font1 = new FontFaceObserver('Nunito Sans');
 
