@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: andreaseracleous.com 
+Token: b8b59dc7f26bdb04b76e39d90a6d94e71d5776c04b60129ae1db9b9d94bee9da
