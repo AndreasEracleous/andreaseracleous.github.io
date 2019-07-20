@@ -1,0 +1,8 @@
+<section class="mt-5">
+<h3 class="h5 text-uppercase font-weight-bold mb-4">Blog</h3>
+{% for post in site.posts limit:6 %}
+      <ul>
+        <li><h4 class="h5"><a href="{{ site.baseurl }}{{ post.url }}" class="text-dark">{{ post.title }}</a></h4></li>
+      </ul>
+{% endfor %}
+</section>

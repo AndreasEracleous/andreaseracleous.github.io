@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://andreaseracleous.com/sitemap.xml
+Disallow: /thank-you-for-subscribing/
+Noindex: /thank-you-for-subscribing/

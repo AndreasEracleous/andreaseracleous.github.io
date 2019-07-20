@@ -1,0 +1,694 @@
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-display: auto;
+  font-style: normal;
+  font-weight: 300;
+  src: local('Nunito Sans Light'), local('NunitoSans-Light'), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8WAc5iU1ECVZl_86Y.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-display: auto;
+  font-style: normal;
+  font-weight: 300;
+  src: local('Nunito Sans Light'), local('NunitoSans-Light'), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8WAc5jU1ECVZl_86Y.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-display: auto;
+  font-style: normal;
+  font-weight: 300;
+  src: local('Nunito Sans Light'), local('NunitoSans-Light'), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8WAc5tU1ECVZl_.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito Sans Regular'), local('NunitoSans-Regular'), url(https://fonts.gstatic.com/s/nunitosans/v3/pe0qMImSLYBIv1o4X1M8cceyI9tAcVwob5A.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito Sans Regular'), local('NunitoSans-Regular'), url(https://fonts.gstatic.com/s/nunitosans/v3/pe0qMImSLYBIv1o4X1M8ccezI9tAcVwob5A.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito Sans Regular'), local('NunitoSans-Regular'), url(https://fonts.gstatic.com/s/nunitosans/v3/pe0qMImSLYBIv1o4X1M8cce9I9tAcVwo.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nunito Sans Bold'), local('NunitoSans-Bold'), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8GBs5iU1ECVZl_86Y.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nunito Sans Bold'), local('NunitoSans-Bold'), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8GBs5jU1ECVZl_86Y.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nunito Sans Bold'), local('NunitoSans-Bold'), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8GBs5tU1ECVZl_.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    font-display: auto;
+    src: url('https://andreaseracleous.com/assets/fonts/geomanist-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geomanist';
+    font-display: auto;
+    src: url('https://andreaseracleous.com/assets/fonts/geomanist-regular-italic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  background: white;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -ms-overflow-style: scrollbar; 
+  }
+
+body {
+  min-height: 100%;
+  min-width: 320px;
+  background: white;
+  overflow-x: hidden;
+   font-family: 'Nunito Sans', sans-serif;
+   font-size: 1rem;
+  color: #212121;
+  /*
+  background: #d7d6d6 url('../img/pattern.png') repeat 0 0;
+  */
+}
+ body::-webkit-scrollbar {
+    display: none; 
+  }
+.fonts-loaded body {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.h1,h1,
+.h2,h2,
+.h3,h3,
+.h4,h4,
+.h5,h5,
+.h6,h6 {
+  font-family: 'Geomanist', 'Nunito Sans', sans-serif!important;
+}
+
+.h1, h1 {
+    line-height: 1.4;
+    letter-spacing: .15rem;
+    /*text-shadow: 0 1px 2px rgba(6,24,63,.6);*/ 
+}
+
+
+.size-15 {
+  width:15px;
+  height:15px;
+}
+.size-20 {
+  width:20px;
+  height:20px;
+}
+.size-25 {
+  width:25px;
+  height:25px;
+}
+.size-30 {
+  width:30px;
+  height:30px;
+}
+.size-35 {
+  width:35px;
+  height:35px;
+}
+.size-50 {
+  width:50px;
+  height:50px;
+}
+.size-55 {
+  width:55px;
+  height:55px;
+}
+.size-65 {
+  width:65px;
+  height:65px;
+}
+
+a {
+    color: #1976D2;
+}
+/*
+a:not(.btn), 
+a:visited:not(.btn) {
+    border: 0;
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0, #FFCA0D), color-stop(16%, #FFCA0D), color-stop(16%, transparent), to(transparent));
+    background-image: -webkit-linear-gradient(bottom, #FFCA0D 0, #FFCA0D 16%, transparent 16%, transparent 100%);
+    background-image: -o-linear-gradient(bottom, #FFCA0D 0, #FFCA0D 16%, transparent 16%, transparent 100%);
+    background-image: linear-gradient(to top, #FFCA0D 0, #FFCA0D 16%, transparent 16%, transparent 100%);
+}
+*/
+.grayscale {
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1); 
+}
+.multiple-filters {
+    -webkit-filter: contrast(1.4) saturate(0.5) sepia(0);
+    filter: contrast(1.4) saturate(0.5) sepia(0);
+}
+.gray-box-2d {
+  padding: 15px;
+  background: rgba(0, 0, 0, 0.03);
+  -webkit-box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.1);
+  box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.1);
+}
+.bg-lightgray {
+  background-color: #f0f0f0;
+}
+.text-blue {
+  color: #BBDEFB!important;
+}
+.text-secondary {
+  color: #bbb!important;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: .7rem 3rem;
+}
+.btn-success {
+     background-color: #4CAF50;
+     border-color: #4CAF50; 
+     border-width: 0px;
+    -webkit-box-shadow: inset 0px 1px 0px #fff, 0px 5px 0px #2E7D32, 1px 7px 7px 3px rgba(0,0,0,0.3);
+    -moz-box-shadow: inset 0px 1px 0px #fff,0px 5px 0px #2E7D32,1px 7px 7px 3px rgba(0,0,0,0.3);
+    box-shadow: inset 0px 1px 0px #fff, 0px 5px 0px #2E7D32, 1px 7px 7px 3px rgba(0,0,0,0.3);
+}
+
+.btn-success:hover, 
+.btn-success:focus, 
+.btn-success:active {
+    border-width: 0px;
+    border-color: #ffffff;
+}
+.btn-success:hover {
+    background-color: #2E7D32;
+    border-color: #2E7D32;
+}
+.btn-success:active {
+    -webkit-box-shadow: inset 0px 1px 0px #fff, 0px 5px 0px #2E7D32, 1px 7px 7px 3px rgba(0,0,0,0.3);
+    -moz-box-shadow: inset 0px 1px 0px #fff,0px 5px 0px #2E7D32,1px 7px 7px 3px rgba(0,0,0,0.3);
+    box-shadow: inset 0px 1px 0px #fff, 0px 5px 0px #2E7D32, 1px 7px 7px 3px rgba(0,0,0,0.3);
+}
+.title-sep-line {
+  position: relative;
+}
+.title-sep-line:before {
+    display: inline-block;
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 1px;
+    background: #ddd;
+    top: 50%;
+    left: 0;
+    z-index: 1;
+}
+.title-sep-line:after {
+  position: relative;
+  content: attr(data-title);
+  background: #fff;
+  z-index: 2;
+  padding: 0 30px; 
+}
+
+.form-newsletter {
+
+}
+.shadow-box {
+  box-shadow: 0 10px 80px rgba(0,0,0,.10);
+}
+.check-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.check-list-item {
+  position: relative;
+  line-height: normal;
+  padding-left: 30px;
+}
+.check-list-item +.check-list-item {
+  margin-top: 12px;
+}
+
+.check-list-item>svg {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  height: 1.2em!important;
+  width: 1.2em!important;
+  margin-right: 10px;
+  color: #28a745;
+}
+
+.check-list-item:before {
+    content: "\f058";
+    display: none;
+    font-family:"Font Awesome\ 5 Light";
+    font-weight: 600;
+}
+
+.check-list-item-footer {
+  padding-left: 30px;
+  padding-top: .75rem;
+}
+
+.check-list-item-footer + .check-list-item-footer {
+  border-top: 1px solid #777;
+}
+.check-list-item-footer:before {
+  content: "\f105";
+}
+.check-list-item-footer>svg {
+  position: absolute;
+  top: 11px;
+  color: #999;
+  font-size: 1rem;
+}
+
+/*
+.check-list-item-footer:before {
+  position: absolute;
+  content: "\2022";
+  top: 0;
+  left: 0;
+  color: #000; 
+}
+
+.check-list-item-footer:before {
+  content: ">";
+  top: 11px;
+  color: #999;
+}
+*/
+/* fade image in after load */
+.lazyload,
+.lazyloading {
+  opacity: 0;
+}
+.lazyloaded {
+  opacity: 1;
+  transition: opacity 300ms;
+}
+.site-name {
+  font-size: 1.1rem;
+}
+.tagline {
+    position: relative;
+    top: -12px;
+    font-size: .65rem;
+    letter-spacing: .1rem;
+}
+.goTop {
+    position: fixed; 
+    display: block;  
+    right: 75px;  
+    bottom: 0;   
+    background-color: #263238;
+    border-radius: 4px 4px 0 0;
+    color: #fff;
+    width: 48px;  
+    height: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: normal;
+    opacity: .9;
+    z-index: 100000;
+}
+.breadcrumb {
+  background: none;
+}
+/* CUSTOMIZETION */
+.page--home .site-nav__open {
+  color: #fff;
+}
+
+.site-nav__open,
+.site-nav__close {
+    display:block; 
+    padding: 15px 0;
+    text-transform: uppercase;    
+    float: right;
+    font-weight: lighter;
+    color: #fff;
+}
+.site-nav__open:hover,
+.site-nav__open:focus,
+.site-nav__close:hover,
+.site-nav__close:focus {
+  color: #fff;
+  text-decoration: none;
+}
+/*
+.site-nav__open:before {
+    content: "☰ ";
+}
+.site-nav__close:after {
+    content: " ×";
+}
+*/
+
+.site-nav__item--close {
+    position: relative;
+    top: 15px;
+    right: 15px;
+    margin-bottom: 50px;
+}
+
+.site-nav__target:target+.site-nav__list {
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+}
+
+.site-nav__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    -webkit-transform: translateX(100%);
+    -moz-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    -o-transform: translateX(100%);
+    transform: translateX(100%);
+    -webkit-transition: 0.2s;
+    -moz-transition: 0.2s;
+    -ms-transition: 0.2s;
+    -o-transition: 0.2s;
+    transition: 0.2s;
+    will-change: transform;
+    background-color:#0D47A1;
+}
+
+.nav-item.active > a {
+    color: #BBDEFB!important;
+}
+
+.nav-link {
+    font-family: 'Geomanist', 'Nunito Sans', sans-serif;
+    padding: .5rem .8rem;
+    font-weight: lighter;
+}
+
+.nav-link-footer {
+  padding: .5rem;
+}
+
+.navbar-brand {
+  position: relative;
+  letter-spacing: .15rem;
+  color: gray;
+  margin: 0;
+}
+  .container {
+      width: 100%;
+      max-width: 1140px;
+  }
+	.wrapper {
+			max-width: 1140px;
+		 margin:0 auto;
+	    box-shadow: 0 1px 6px rgba(0,0,0,.5);
+	    background-color: #fff;
+	}
+  .main {
+    background-color: #fff;
+  }	
+	.header {
+    position: relative;
+		padding: 15px 0;
+    z-index: 1;
+	}
+  .header-nav {
+    line-height: 29px;
+  }
+.header-bar {
+  background-color: #1976D2;
+    /*background-color: #0D47A1;*/
+    padding:5px 0;
+}
+
+.social-bar {
+    height: 30px;
+    background-color: #fff;
+}
+.social-link {
+    display: block;
+    font-size: 1.3rem;
+    padding: 0.2rem 0.5rem;
+    color: #999;
+}
+
+.color-facebook {
+	color:#3b5998;
+}
+.color-twitter {
+	color: #55acee;
+}
+.color-linkedin {
+	color: #0077b5;
+}
+.color-instagram {
+	color: #3f729b;
+}
+.color-rss {
+	color: #f26522;
+}
+/* END CUSTOMIZETION */
+.navbar {
+  margin-bottom: 0;
+}
+
+.form-control {
+background-color: #f5f5f5;
+}
+
+.header-jumbotron {
+  position: relative;
+	border-radius: 0;
+  background: #0D47A1;
+}
+
+.jumbotron {
+  position: relative;
+  margin:0;
+  padding:1rem 0;
+  border-radius: 0;
+  background: none;
+}
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.album {
+  min-height: 50rem; /* Can be removed; just added for demo purposes */
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #f7f7f7;
+}
+.companies-list {
+    -webkit-box-shadow: inset 0 0 0 1px #e6e6e6;
+    box-shadow: inset 0 0 0 1px #e6e6e6;
+    background: #eee;
+    padding: 30px 0;
+    margin: 0 -15px; 
+}
+
+/* ---- isotope ---- */
+.grid {
+ 
+}
+
+/* clear fix */
+.grid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .element-item ---- */
+
+.element-item {
+  position: relative;
+  float: left;
+  width: 300px;
+  height: 300px;
+  padding: 0;
+  margin: 0 30px 120px 30px;
+}
+
+.element-item > * {
+  margin: 0;
+  padding: 0;
+}
+
+.element-item .name {
+  position: absolute;
+  left: 10px;
+  top: 60px;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 12px;
+  font-weight: normal;
+}
+.element-item .symbol {
+  position: absolute;
+  left: 10px;
+  top: 0px;
+  font-size: 42px;
+  font-weight: bold;
+  color: white;
+}
+.element-item .number {
+  position: absolute;
+  right: 8px;
+  top: 5px;
+}
+.element-item .weight {
+  position: absolute;
+  left: 10px;
+  top: 76px;
+  font-size: 12px;
+}
+.footer-info {
+  border-top: 5px solid #ccc;
+  box-shadow: 0 20px 80px rgba(0,0,0,.90);
+  background-color: #2f3e45;
+}
+.footer {
+	font-size: 0.8rem;
+	width: 100%;
+	float: left;
+    clear: both;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    border-top: 1px solid #444;
+    background-color: #263238;
+}
+.footer p {
+  margin-bottom: .25rem;
+}
+
+.card-deck {
+  display: block;
+}
+.card-deck .card {
+  display: block;
+  margin-bottom: .75rem;
+}
+@media (min-width: 576px){ 
+  .card-columns {
+      -webkit-column-count: 1;
+      column-count: 1;
+  }
+}
+@media (min-width: 768px){
+  .site-name {
+    font-size: 1.70rem;
+  }
+  .tagline {
+      font-size: .82rem;
+      letter-spacing: .2rem;
+  }  
+  .site-nav__open,
+  .site-nav__close {
+      display:none; 
+  }  
+  .site-nav__list {
+    position: relative;
+    top: auto;
+    right: auto;
+    bottom: auto;
+    left: auto;
+    float: right;
+    background: none;
+    overflow: visible;
+    backdrop-filter: none;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none;
+  }  
+  .card-columns {
+      -webkit-column-count: 2;
+      column-count: 2;
+  }
+}
+@media (min-width: 992px){
+ .sidebar {
+    padding-left: 50px;
+  } 
+  .card-columns {
+      -webkit-column-count: 3;
+      column-count: 3;
+  }
+ .card-deck {
+    display: flex;
+  }
+  .card-deck .card {
+    display: flex;
+    margin-right: 15px;
+    margin-bottom: 0;
+    margin-left: 15px;   
+  } 
+}

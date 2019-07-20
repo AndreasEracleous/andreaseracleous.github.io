@@ -1,0 +1,59 @@
+---
+layout: post
+jumbotron: post
+jumbotron-title: Blog
+page-class: page-blog
+title: Practical tips for responsive web design.
+---
+<div class="row">
+	<div class="col-md-8">
+		<div class="posts clearfix">
+		  {% for post in paginator.posts %}
+		    <article class="post mt-5 clearfix">
+		      <h3><a href="{{ site.baseurl }}{{ post.url }}" class="text-dark">{{ post.title }}</a></h3>
+		      <div class="entry mb-2">
+		        <p>{{ post.excerpt | strip_html | truncatewords:75 }}</p>
+		      </div>
+		      <span class="date text-secondary">{{ post.date | date: '%d %B, %Y' }}</span>
+		      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more float-right">Read More</a>
+		    </article>
+		    <hr>
+		  {% endfor %}
+
+		<!-- Pager -->
+		{% if paginator.total_pages > 1 %}
+
+		  <div class="clearfix">
+
+		    {% if paginator.previous_page %}
+		      <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer<span class="d-none d-md-inline"> Posts</span></a>
+		    {% endif %}
+
+		    {% if paginator.next_page %}
+		      <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
+		    {% endif %}
+
+		  </div>
+
+		{% endif %}
+
+		</div>
+	</div>
+	<div class="col-md-4 mt-5">
+		<div class="sidebar">	
+			<div class="card border-0 rounded-0">
+				<div class="card-body bg-lightgray">
+					<div class="person-box text-center">
+						<img data-src="{{ site.baseurl }}/assets/img/about/andreas.jpg" width="150" alt="Andreas Eracleous" class="lazyload person-img img-fluid rounded-circle mx-auto d-block mb-3">
+						<p>Hi I'm <strong>Andreas Eracleous</strong> and I'm a <strong>Front-End Web Developer</strong>. Learn more <a href="/about">about me</a>.</p> 
+						<p>Welcome to my blog. I hope you find something useful here.</p>
+						<p><a href="https://twitter.com/AndrewEracleous"><i class="fab fa-twitter size-20"></i> Follow me on Twitter</a></p>
+						<!--<a class="btn btn-lg btn-success text-uppercase" href="#">Ask For A Quote</a>-->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" class="page {{page.page-class }}">
+{% include head.html %}
+  <body>   
+   <main role="main" class="main py-5 clearfix">
+      <div class="container">
+      	<h1 class="text-center font-weight-bold mb-5">Responsive Landing Page Template With Bootstrap</h1>
+        {{ content }}
+      </div>
+    </main>
+<footer class="footer">
+  <div class="container">
+    <div class="d-flex flex-wrap justify-content-between">
+      <p class="text-secondary mt-2 mb-2 pb-0">©&nbsp;<script>document.write(new Date().getFullYear());</script>&nbsp;Andreas Eracleous. All Rights Reserved.</p>
+      <div class="d-flex justify-content-center">
+        {% include social-icons-footer.html %}
+      </div>
+    </div>
+  </div>
+</footer>
+<div id="scrollme" class="goTop"><i class="fal fa-angle-up fa-2x"></i></div>   
+	<script type="text/javascript" src="{{ site.baseurl }}/assets/js/fontfaceobserver.js" defer></script>
+	<script type="text/javascript" src="{{ site.baseurl }}/assets/js/main.js" defer></script>
+  </body>
+</html>

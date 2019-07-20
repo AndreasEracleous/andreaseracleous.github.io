@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" class="page {{page.page-class }}">
+{% include head.html %}
+  <body>
+    <div id="scrollme" class="goTop"><i class="fal fa-angle-up size-35"></i></div> 
+    <!--
+  <div class="social-bar">   
+    <div class="container">
+    <div class="d-flex justify-content-end">
+    {% include social-icons.html %}
+    </div>
+    </div>
+  </div>
+ --> 
+
+    {% if page.jumbotron == "home" %}
+      {% include jumbotron-home.html %}
+    {% elsif page.jumbotron == "page" %}
+      {% include jumbotron-page.html %}
+    {% elsif page.jumbotron == "post" %}
+      {% include jumbotron-post.html %}
+    {% else %}
+      {% include jumbotron-simple.html %}      
+    {% endif %}
+    
+    <main role="main" class="container main py-5 clearfix">
+        {{ content }}
+    </main>
+     {% include footer.html %}  
+
+    {% if page.page-class == "single-post" %}
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/prism.js" async defer></script>
+    {% endif %}
+    {% if page.page-class == "page-work" %}
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/isotope.pkgd.min.js" defer></script>  
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/isotope.init.js" defer></script>  
+    {% endif %}
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/fontawesome.min.js" defer></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/brands.min.js" defer></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/solid.min.js" defer></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/regular.min.js" defer></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/light.min.js" defer></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/all.min.js" defer></script>    
+    <!--
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/fontfaceobserver.js" defer></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/main.js" defer></script>
+  -->
+
+    {% if site.environment != 'development' %}
+      {% include analytics.html %}
+    {% endif %}
+
+<!--
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+          navigator.serviceWorker.register('/sw.js').then(function(registration) {
+            // Registration was successful
+            console.log('ServiceWorker registration successful with scope: ', registration.scope);
+          }, function(err) {
+            // registration failed :(
+            console.log('ServiceWorker registration failed: ', err);
+          });
+        });
+      }
+      </script>
+-->
+  </body>
+</html>
